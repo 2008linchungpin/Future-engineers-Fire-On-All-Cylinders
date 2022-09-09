@@ -10,9 +10,9 @@ Lithium Polymer：Provides electricities for the Raspberry and other electromech
 
 L293D Motor Driver: Controls GA25-371 Dc Gear Motor to turn clockwise, conterclockwise, and alter the direction of it.
 
-ADIO-DC36V5A 穩壓模組：穩定鋰電池提供的電
+ADIO-DC36V5A Switching Power Adapter：Stable the electricity that the lithium polymer provides
 
-jmdo.96c OLED display：To show some specific numerical data.
+jmdo.96c OLED display：To show some specific numerical data of the Raspberry.
 
 Tcs34725 RGB Color Sensor：To dectect lines and calcualte the laps the vehicle had passed.
 
