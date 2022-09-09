@@ -81,7 +81,7 @@ After reading the rule of the competition, we figure out some materials and elec
 *****
 **紀錄日期:** 2022/6/16 - 2022/6/17
 
-**活動成員：** 林仲斌 廖翊安
+**活動成員：** 林仲斌
 
 **工作內容：**
 
@@ -92,7 +92,7 @@ After reading the rule of the competition, we figure out some materials and elec
 *****
 **紀錄日期:** 2022/6/18 - 2022/6/19
 
-**活動成員：** 林仲斌 廖翊安
+**活動成員：** 林仲斌
 
 **工作內容：**
 
@@ -103,7 +103,7 @@ After reading the rule of the competition, we figure out some materials and elec
 *****
 **紀錄日期:** 2022/6/22
 
-**活動成員：** 林仲斌 廖翊安
+**活動成員：** 林仲斌
 
 **工作內容：**
 
@@ -114,7 +114,7 @@ After reading the rule of the competition, we figure out some materials and elec
 *****
 **紀錄日期:** 2022/6/24 - 2022/6/26
 
-**活動成員：** 林仲斌 廖翊安
+**活動成員：** 林仲斌
 
 **工作內容：**
 
@@ -123,7 +123,7 @@ After reading the rule of the competition, we figure out some materials and elec
 *****
 **紀錄日期:** 2022/6/28 - 2022/6/29
 
-**活動成員：** 林仲斌 廖翊安
+**活動成員：** 林仲斌
 
 **工作內容：**
 
@@ -138,7 +138,7 @@ After reading the rule of the competition, we figure out some materials and elec
 *****
 **紀錄日期:** 2022/6/30
 
-**活動成員：** 林仲斌 廖翊安
+**活動成員：** 林仲斌
 
 **工作內容：**
 
