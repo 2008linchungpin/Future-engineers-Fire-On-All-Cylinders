@@ -266,7 +266,7 @@ After reading the rule of the competition, we figure out some materials and elec
 
 
 *****
-**紀錄日期:** 2022/9/3 - 2022/9/4
+**紀錄日期:** 2022/9/3 - 2022/9/5
 
 **活動成員：** 林仲斌、林柏盛、李鼎為
 
