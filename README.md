@@ -2,6 +2,17 @@
 
 ## Team lntroduction
 
+LIN,BO-SHENG
+
+Taichung Industrial Senior High School
+
+LI,DING-WEI
+
+Ming-Dao High School
+
+LIN,ZHONG-BIN
+
+Taiping Junior High School
 
 ## Introduces of Electromechanical Components
 
