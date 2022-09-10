@@ -6,13 +6,19 @@
 
 Taichung Industrial Senior High School
 
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6410.JPG" width="400" height="300">
+
 **LI,DING-WEI**
 
 Ming-Dao High School
 
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6403.JPG" width="400" height="300">
+
 **LIN,ZHONG-BIN**
 
 Taiping Junior High School
+
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6404.JPG" width="400" height="300">
 
 ## Introduces of Electromechanical Components
 
