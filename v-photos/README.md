@@ -1,4 +1,4 @@
-photo of car
+Vehicle's photos
 =====
 
 Left view
