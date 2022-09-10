@@ -2,15 +2,15 @@
 
 ## Team lntroduction
 
-LIN,BO-SHENG
+**LIN,BO-SHENG
 
 Taichung Industrial Senior High School
 
-LI,DING-WEI
+**LI,DING-WEI
 
 Ming-Dao High School
 
-LIN,ZHONG-BIN
+**LIN,ZHONG-BIN
 
 Taiping Junior High School
 
