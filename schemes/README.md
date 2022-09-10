@@ -110,9 +110,7 @@ Detect the blue and orange line on the map.
 ![image](https://user-images.githubusercontent.com/113166131/189474446-d291e15b-80ae-407c-b36e-1791aece948f.png)
 
 ## Components's Position
-![image](https://user-images.githubusercontent.com/113166131/189474555-db834587-3ed5-41de-88f9-bee026edd433.png)
-
-
+![image](https://user-images.githubusercontent.com/113166131/189475381-0604883b-2b72-4a9e-a439-b0ba4b8d203d.png)
 
 
 
