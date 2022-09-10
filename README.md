@@ -20,6 +20,17 @@ Taiping Junior High School
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6404.JPG" width="300" height="400">
 
+**Team Photo**
+
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_1738.JPG" width="400" height="300">
+
+
+**Team Funny Photo**
+
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_1740.JPG" width="400" height="300">
+
+
+
 ## Introduces of Electromechanical Components
 
 GA25-371 Dc Gear Motor：Drives the rear wheels of the vehicle in order to control it move forward and backward.
