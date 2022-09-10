@@ -14,7 +14,7 @@ ADIO-DC36V5A Switching Power Adapter：Stable the electricity that the lithium p
 
 jmdo.96c OLED display：To show some specific numerical data of the Raspberry.
 
-Tcs34725 RGB Color Sensor：To dectect lines and calcualte the laps the vehicle had passed.
+Tcs34725 RGB Color Sensor：To dectect lines and calculate the laps the vehicle had passed.
 
 Raspberry pi Camera (G)：Images collecting and identifying.
 
