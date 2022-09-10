@@ -20,7 +20,7 @@ Taiping Junior High School
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6404.JPG" width="300" height="400">
 
-**Team Photos**
+## Team Photos
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_1738.JPG" width="400" height="300">
 
@@ -29,7 +29,7 @@ Taiping Junior High School
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_1740.JPG" width="400" height="300">
 
-**YouTube URL**
+## YouTube URL
 
 https://reurl.cc/W18Wl9
 
