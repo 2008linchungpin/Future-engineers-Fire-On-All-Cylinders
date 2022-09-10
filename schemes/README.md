@@ -28,7 +28,7 @@ Maximum electric current: 45.5A
 Net Weight：about 107g  
 Nominal Voltage：11.1V  
 ### Usage
-Provides electricity for the Raspberry and other electromechanical components  
+Provides electricity for the Raspberry and other electromechanical components.  
 ![image](https://user-images.githubusercontent.com/113166131/189469718-67290ec5-fe63-4a7a-bebe-b0acd80739f9.png)
 
 ## L293D Quadruple Half-H Drivers
@@ -82,6 +82,23 @@ Make the model drives more accurately.
 Collects photos from the lens and carries out the image identifying, controls the vehicle to move ,and ,last but not least, used to write the program.   
 ![image](https://user-images.githubusercontent.com/113166131/189469846-a90bbce4-4a87-4ed1-817f-9d4ca6c97971.png)
 
+## Raspberry Pi Camera
+### Specification
+Maximum Frame Rate Capture : 30 fps  
+Dimensions : 23.86 * 25 * 9 mm  
+Operating Temperature : +60℃~-20℃  
+### Usage
+Image collecting and identifying.  
+![image](https://user-images.githubusercontent.com/113166131/189473771-bc6821f1-3c3d-4e15-9093-3bd6e288e301.png)
+
+## Arduino Ultrasonic Sensor
+### Specification
+Max range : 400cm / 13 feet  
+Min range : 2cm / 1 inch  
+Operating Voltage : 5 V  
+### Usage
+Calculate the length between the wall and the vehicle.  
+![image](https://user-images.githubusercontent.com/113166131/189473863-d5d9407f-a2f0-4e16-8c04-7bbd3a7e22c2.png)
 
 
 
