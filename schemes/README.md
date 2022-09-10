@@ -100,6 +100,9 @@ Operating Voltage : 5 V
 Calculate the length between the wall and the vehicle.  
 ![image](https://user-images.githubusercontent.com/113166131/189473863-d5d9407f-a2f0-4e16-8c04-7bbd3a7e22c2.png)
 
+## Components's Position
+![image](https://user-images.githubusercontent.com/113166131/189474055-ccecc492-a5c2-411d-a299-612bf8f0af24.png)
+
 
 
 
