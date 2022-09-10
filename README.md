@@ -38,23 +38,25 @@ https://reurl.cc/W18Wl9
 
 ## Introduces of Electromechanical Components
 
-GA25-371 Dc Gear Motor：Drives the rear wheels of the vehicle in order to control it move forward and backward.
+GA25-371 Dc Gear Motor：Drives the rear wheels of the vehicle in order to control it move forward and backward.  
 
-MG90S-Metal Gear Micro Servo Motor：Force the mechanical structure to let the vehicle turn.
+MG90S-Metal Gear Micro Servo Motor：Force the mechanical structure to let the vehicle turn.  
 
-Lithium Polymer：Provides electricities for the Raspberry and other electromechanical components.
+Lithium Polymer：Provides electricities for the Raspberry and other electromechanical components.  
 
-L293D Motor Driver: Controls GA25-371 Dc Gear Motor to turn clockwise, conterclockwise, and alter the direction of it.
+L293D Motor Driver: Controls GA25-371 Dc Gear Motor to turn clockwise, conterclockwise, and alter the direction of it.  
 
-ADIO-DC36V5A Switching Power Adapter：Stable the electricity that the lithium polymer provides
+ADIO-DC36V5A Switching Power Adapter：Stable the electricity that the lithium polymer provides  
 
-jmdo.96c OLED display：To show some specific numerical data of the Raspberry.
+jmdo.96c OLED display：To show some specific numerical data of the Raspberry.  
 
-Tcs34725 RGB Color Sensor：To dectect lines and calculate the laps the vehicle had passed.
+Tcs34725 RGB Color Sensor：To dectect lines and calculate the laps the vehicle had passed.   
 
-Raspberry pi Camera (G)：Images collecting and identifying.
+Raspberry pi Camera (G)：Images collecting and identifying.  
 
-Raspberry Pi 4：In charge of all the models of vehicle controllers.
+Arduino Ultrasonic Sensor : Calculate the length between the wall and the vehicle.  
+
+Raspberry Pi 4：In charge of all the models of vehicle controllers.  
 
 ## Diary Log
 
@@ -69,11 +71,11 @@ After reading the rule of the competition, we figured out some materials and ele
 <img src= "https://user-images.githubusercontent.com/106851896/176984877-f74ac4e4-97b1-49e1-bfa5-84112426c236.jpg" width="400" height="300">  <img src= "https://user-images.githubusercontent.com/106851896/176984586-d9094acf-c13c-4dc4-bf20-022f951bf5ed.jpg" width="400" height="300"><br/>
 
 *****
-**紀錄日期：** 2022/6/5 - 2022/6/7
+**Date：** 2022/6/5 - 2022/6/7
 
-**活動成員：** 林仲斌 
+**Members：** 林仲斌 
 
-**工作內容：**
+**Content：**
 
 During these days, we started to design the construction of the vehicle. Dividing it into three straight layers, we put the necessary components onto it. With the help of Onshape and the laser beam cutting machine, we can easily draw the outline of the automobile and then cut the plank into the shape we needed so as to build the carbody structural member. 
 
@@ -81,24 +83,24 @@ During these days, we started to design the construction of the vehicle. Dividin
 
 
 *****
-**紀錄日期:** 2022/6/8 - 2022/6/10 
+**Date:** 2022/6/8 - 2022/6/10 
 
-**活動成員：** 林仲斌
+**Members：** 林仲斌
 
-**工作內容：**
+**Content：**
 
 Confirming the car's shape, we started off to choose the motors. For now we have GA25-370 in hand, and while checking some datasheets one the internet, we bought some JGA16-050 because it's much lighter and was not as large the GA25-370. But in spite of the advantages of JGS16-050, we still ultilized GA25-370 for driving the vehicle after practical comparasions due to the efficiency they provided.
 
 <img src= "https://user-images.githubusercontent.com/106851896/176989086-27531ee9-5cdb-40cb-8e0b-7d376ba59e3e.jpg" width="400" height="300">  <img src= "https://user-images.githubusercontent.com/106851896/176989089-816688a2-115c-4d20-a689-e17af9d53a5a.jpg" width="400" height="300"><br/>
 
 *****
-**紀錄日期:** 2022/6/11
+**Date:** 2022/6/11
 
-**活動成員：** 林仲斌
+**Members：** 林仲斌
 
-**工作內容：**
+**Content：**
 
-Condering that the GA25-370 needs a total 12 of operating voltage, we 
+Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L298n Dc Motor Drive to control the movement of the GA25-370 Dc Gear Motor. On the other hand, L298n needs a external power supply. So we 
 考慮到GA25-370需要12v的工作電壓，我們安裝L298n直流馬達控制板控制GA25-370直流馬達的動作。因為L298n直流馬達控制板需外接電源，所以我們製作了一個12v的鋰電池連接到L298n直流馬達控制板的線。
 
 <img src= "https://user-images.githubusercontent.com/106851896/176989980-82d65ada-de48-4de4-8b35-44c4a550eb33.jpg" width="400" height="300">
