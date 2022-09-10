@@ -70,7 +70,7 @@ To show some specific numerical data of the Raspberry.
 ### Specification
 Operating Voltage：3.3V – 5.0V  
 Operating Electric Current:5mA  
-Pin：Gravity-I2c  
+Interface：Gravity-I2c  
 ### Usage
 Make the model drives more accurately.  
 ![image](https://user-images.githubusercontent.com/113166131/189469799-a836d5d1-0dec-47c2-8f0f-b56d22ad8c92.png)
@@ -100,8 +100,17 @@ Operating Voltage : 5 V
 Calculate the length between the wall and the vehicle.  
 ![image](https://user-images.githubusercontent.com/113166131/189473863-d5d9407f-a2f0-4e16-8c04-7bbd3a7e22c2.png)
 
+## TCS23725 RGB color sensor
+### Specification
+Operating Voltage : 5 V  
+Interface : 12 C  
+Dimensions : 27 * 20 mm  
+### Usage
+Detect the blue and orange line on the map.
+![image](https://user-images.githubusercontent.com/113166131/189474446-d291e15b-80ae-407c-b36e-1791aece948f.png)
+
 ## Components's Position
-![image](https://user-images.githubusercontent.com/113166131/189474055-ccecc492-a5c2-411d-a299-612bf8f0af24.png)
+![image](https://user-images.githubusercontent.com/113166131/189474555-db834587-3ed5-41de-88f9-bee026edd433.png)
 
 
 
