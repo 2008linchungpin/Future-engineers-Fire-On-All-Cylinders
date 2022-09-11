@@ -62,7 +62,7 @@ Raspberry Pi 4：In charge of all the models of vehicle controllers.
 
 **Date：** 2022/6/4
 
-**Members：** LIN,ZHONG-BIN
+**Members：** 林仲斌
 
 **Content：**
 
@@ -73,7 +73,7 @@ After reading the rule of the competition, we figured out some materials and ele
 *****
 **Date：** 2022/6/5 - 2022/6/7
 
-**Members：** LIN,ZHONG-BIN
+**Members：** 林仲斌 
 
 **Content：**
 
@@ -217,7 +217,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **工作內容：**
 
-在訓練的時候機器總是會頓一下頓一下的行始，一開始我們以為電池電量不足或是馬達導致，我換過電磁以後電力發現是杜邦線太常導致卡到輪胎。
+在訓練的時候機器總是會頓一下頓一下的行始，一開始我們以為電池電量不足或是馬達導致，之後換過電磁以後也是一樣，最後發現是杜邦線太常導致卡到輪胎。
 
 *****
 **紀錄日期:** 2022/7/26
