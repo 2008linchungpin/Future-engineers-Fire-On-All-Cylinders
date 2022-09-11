@@ -37,9 +37,9 @@ https://reurl.cc/W18Wl9
 
 # 車輛介紹
 
-我們雷切使用5millimeter的椴木拿來作成機器得底盤，我們還有使用樂高積木拿來作鏡頭的支撐。
 圖片
 -----------------------------
+我們機設計構雷切使用3millimeter的椴木拿來作成機器得底盤，我們還有使用樂高積木拿來作鏡頭的支撐。
 
 ## Introduces of Electromechanical Components
 
