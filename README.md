@@ -35,6 +35,9 @@ https://reurl.cc/W18Wl9
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/sddefault.jpg" width="400" height="300">
 
+## Vehicle Design Concept
+車輛使用由雷射切割機切割的3mm木板與樂高零件組裝而成
+
 
 ## Introduces of Electromechanical Components
 
