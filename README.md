@@ -206,9 +206,18 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **工作內容：**
 
-我們將樹莓派與Docker軟體環境架設，在架設完成以後調整機器轉彎的舵向，調整過後就直接開始進行遙控機型拍攝場地照片訓練，經過訓練後機型可以自主跑完順時針逆時針的題目。
+我們將樹莓派與Donker軟體環境架設，在架設完成以後調整機器轉彎的舵向，調整過後就直接開始進行遙控機型拍攝場地照片訓練，經過訓練後機型可以自主跑完順時針逆時針的題目。
 
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/IMG_20220811_081727.jpg"  width="600" height="300">
+
+*****
+**紀錄日期:** 2022/7/24
+
+**活動成員：** 林仲斌、林柏盛
+
+**工作內容：**
+
+在訓練的時候機器總是會頓一下頓一下的行始，一開始我們以為電池電量不足或是馬達導致，我換過電磁以後電力發現是杜邦線太常導致卡到輪胎。
 
 *****
 **紀錄日期:** 2022/7/26
@@ -216,6 +225,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 **活動成員：** 林仲斌
 
 **工作內容：**
+
 由於我們機型上面的杜邦線過於混亂，所以我們今天訓練完以後在回家之前把杜邦線都換掉重新剪線整理，避免機型在行駛過程中杜邦線太長勾到其他物品導致損毀。
 
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/IMG_20220810_102902.jpg" width="600" height="300">
