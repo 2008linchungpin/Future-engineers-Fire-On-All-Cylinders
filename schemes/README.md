@@ -105,9 +105,3 @@ Detect the blue and orange line on the map.
 
 ## Components's Position
 ![image](https://user-images.githubusercontent.com/113166131/189475462-862b99e8-51cb-48d2-9cae-eab7beeac132.png)
-
-
-
-
-
-https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/electromechanical%20components.pptx
