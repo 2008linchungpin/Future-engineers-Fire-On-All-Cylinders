@@ -62,7 +62,7 @@ Raspberry Pi 4：In charge of all the models of vehicle controllers.
 
 **Date：** 2022/6/4
 
-**Members：** 林仲斌
+**Members：** LIN,ZHONG-BIN
 
 **Content：**
 
@@ -106,7 +106,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src= "https://user-images.githubusercontent.com/106851896/176989980-82d65ada-de48-4de4-8b35-44c4a550eb33.jpg" width="400" height="300">
 
 *****
-**紀錄日期:** 2022/6/12
+**Date：** 2022/6/12
 
 **活動成員：** 林仲斌
 
@@ -117,7 +117,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src= "https://user-images.githubusercontent.com/106851896/176991414-0866b49d-fd78-4443-be90-2231f7c6d430.jpg" width="400" height="300">
 
 *****
-**紀錄日期:** 2022/6/16 - 2022/6/17
+**Date：** 2022/6/16 - 2022/6/17
 
 **活動成員：** 林仲斌
 
@@ -128,7 +128,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src= "https://user-images.githubusercontent.com/106851896/178086536-d1ad5c58-ee7f-4514-9b3d-6e2d4f79cfdf.jpg" width="400" height="300"> <img src= "https://user-images.githubusercontent.com/106851896/178086538-f11aecf4-af52-4141-a643-7ee231f0d225.jpg" width="400" height="300">
 
 *****
-**紀錄日期:** 2022/6/18 - 2022/6/19
+**Date：** 2022/6/18 - 2022/6/19
 
 **活動成員：** 林仲斌
 
@@ -139,7 +139,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src= "https://user-images.githubusercontent.com/106851896/178087399-1efc9875-dcfc-4141-bd51-6f2f8170cec8.PNG" width="550" height="300">
 
 *****
-**紀錄日期:** 2022/6/22
+**Date：** 2022/6/22
 
 **活動成員：** 林仲斌
 
@@ -150,7 +150,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src= "https://user-images.githubusercontent.com/106851896/178095123-246d669c-eba8-4565-8163-6c9fec77631e.jpg" width="400" height="300"> <img src= "https://user-images.githubusercontent.com/106851896/178095288-702f8c3b-1e6e-4c7c-b58e-0acd271287a4.jpg" width="400" height="300">
 
 *****
-**紀錄日期:** 2022/6/24 - 2022/6/26
+**Date：** 2022/6/24 - 2022/6/26
 
 **活動成員：** 林仲斌
 
@@ -161,7 +161,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6428.JPG" width="400" height="300">
 
 *****
-**紀錄日期:** 2022/6/28 - 2022/6/29
+**Date：** 2022/6/28 - 2022/6/29
 
 **活動成員：** 林仲斌
 
@@ -178,7 +178,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_20220911_120738.jpg" width="400" height="300">
 
 *****
-**紀錄日期:** 2022/6/30
+**Date：** 2022/6/30
 
 **活動成員：** 林仲斌
 
@@ -189,7 +189,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_20220911_122648.jpg" width="400" height="300">
 
 *****
-**紀錄日期:** 2022/7/1 - 2022/7/10
+**Date：** 2022/7/1 - 2022/7/10
 
 **活動成員：** 林仲斌
 
@@ -200,7 +200,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/%E7%B7%9A%E8%B7%AF.jpg.png" width="400" height="300">
 
 *****
-**紀錄日期:** 2022/7/16 - 2022/7/20
+**Date：**2022/7/16 - 2022/7/20
 
 **活動成員：** 林仲斌、林柏盛
 
@@ -211,7 +211,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/IMG_20220811_081727.jpg"  width="600" height="300">
 
 *****
-**紀錄日期:** 2022/7/24
+**Date：** 2022/7/24
 
 **活動成員：** 林仲斌、林柏盛
 
@@ -220,7 +220,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 在訓練的時候機器總是會頓一下頓一下的行始，一開始我們以為電池電量不足或是馬達導致，之後換過電磁以後也是一樣，最後發現是杜邦線太常導致卡到輪胎。
 
 *****
-**紀錄日期:** 2022/7/26
+**Date：**2022/7/26
 
 **活動成員：** 林仲斌
 
@@ -231,7 +231,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/IMG_20220810_102902.jpg" width="600" height="300">
 
 *****
-**紀錄日期:** 2022/7/28
+**Date：**2022/7/28
 
 **活動成員：** 林仲斌
 
@@ -242,7 +242,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/S__6086661.jpg" width="500" height="400">
 
 *****
-**紀錄日期:** 2022/7/29 - 2022/7/30
+**Date：** 2022/7/29 - 2022/7/30
 
 **活動成員：** 林仲斌、林柏盛
 
@@ -253,7 +253,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/2022-08-15%20142636.png" width="700" height="400">
 
 *****
-**紀錄日期:** 2022/8/2 - 2022/8/7
+**Date：** 2022/8/2 - 2022/8/7
 
 **活動成員：** 林仲斌、林柏盛
 
@@ -264,7 +264,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/156.jpg" width="500" height="300">
 
 *****
-**紀錄日期:** 2022/8/9
+**Date：**2022/8/9
 
 **活動成員：** 林仲斌、林柏盛、李鼎為
 
@@ -276,7 +276,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src =  "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/%E6%93%B7%E5%8F%96.PNG"  width="500" height="300">
 
 *****
-**紀錄日期:** 2022/8/12
+**Date：**2022/8/12
 
 **活動成員：** 林仲斌、林柏盛、李鼎為
 
@@ -287,7 +287,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src ="https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/IMG_20220815_103756.jpg" width="600" height="300">
 
 *****
-**紀錄日期:** 2022/8/15
+**Date：**2022/8/15
 
 **活動成員：** 林仲斌、林柏盛、李鼎為
 
@@ -298,7 +298,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/0.1.png" width="400" height="500">
 
 *****
-**紀錄日期:** 2022/8/18
+**Date：** 2022/8/18
 
 **活動成員：** 林仲斌、林柏盛、李鼎為
 
@@ -310,7 +310,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_20220903_100640.jpg" width="450" height="300">
 
 *****
-**紀錄日期:** 2022/8/20
+**Date：** 2022/8/20
 
 **活動成員：** 林仲斌、林柏盛、李鼎為
 
@@ -322,7 +322,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/IMG_20220903_100536.jpg" width="600" height="300">
 
 *****
-**紀錄日期:** 2022/8/24
+**Date：**2022/8/24
 
 **活動成員：** 林仲斌、林柏盛、李鼎為
 
@@ -333,7 +333,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/113502.png" width="400" height="500">
 
 *****
-**紀錄日期:** 2022/8/26
+**Date：**2022/8/26
 
 **活動成員：** 林仲斌、林柏盛、李鼎為
 
@@ -345,7 +345,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/82627.jpg" width="400" height="300">
 
 *****
-**紀錄日期:** 2022/9/3 - 2022/9/4
+**Date：** 2022/9/3 - 2022/9/4
 
 **活動成員：** 林仲斌、林柏盛、李鼎為
 
@@ -356,7 +356,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_20220904_111012.jpg" width="600" height="400">
 
 *****
-**紀錄日期:** 2022/9/7 - 2022/9/8
+**Date：** 2022/9/7 - 2022/9/8
 
 **活動成員：** 林仲斌、林柏盛、李鼎為
 
@@ -367,7 +367,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6426.JPG" width="400" height="300">
 
 *****
-**紀錄日期:** 2022/9/10
+**Date：** 2022/9/10
 
 **活動成員：** 林仲斌、林柏盛、李鼎為
 
