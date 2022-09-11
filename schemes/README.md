@@ -1,4 +1,12 @@
 # Electromechanical diagrams
+
+## controller - Raspberry Pi 4 
+### Specification
+  With the Advanced RISC Machine(ARM) produced by Broadcom Corporation , the total memory capacity of it is 8 Giga bytes.The TransFlash card of it serves as the system’s main storage media. equipped the U - SB interface device and the output of High Definition Multimedia Interface, it can adapt with several types of operating systems.
+### Usage
+Collects photos from the lens and carries out the image identifying, controls the vehicle to move ,and ,last but not least, used to write the program.   
+![image](https://user-images.githubusercontent.com/113166131/189469846-a90bbce4-4a87-4ed1-817f-9d4ca6c97971.png)
+
 ## JGA25‐371 Geared Motor with Encoder
 ### Specification
 No load speed：126 rpm/m  
@@ -66,21 +74,7 @@ Pin : I2c
 To show some specific numerical data of the Raspberry.  
 ![image](https://user-images.githubusercontent.com/113166131/189469767-1107920d-e78d-4a1e-add1-0ff70755c624.png)
 
-## Smart Sensor BNO055
-### Specification
-Operating Voltage：3.3V – 5.0V  
-Operating Electric Current:5mA  
-Interface：Gravity-I2c  
-### Usage
-Make the model drives more accurately.  
-![image](https://user-images.githubusercontent.com/113166131/189469799-a836d5d1-0dec-47c2-8f0f-b56d22ad8c92.png)
 
-## Raspberry Pi 4 
-### Specification
-  With the Advanced RISC Machine(ARM) produced by Broadcom Corporation , the total memory capacity of it is 8 Giga bytes.The TransFlash card of it serves as the system’s main storage media. equipped the USB interface device and the output of High Definition Multimedia Interface, it can adapt with several types of operating systems.
-### Usage
-Collects photos from the lens and carries out the image identifying, controls the vehicle to move ,and ,last but not least, used to write the program.   
-![image](https://user-images.githubusercontent.com/113166131/189469846-a90bbce4-4a87-4ed1-817f-9d4ca6c97971.png)
 
 ## Raspberry Pi Camera
 ### Specification
