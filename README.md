@@ -175,6 +175,8 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 3.有能架設影像辨識AI的環境
 
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_20220911_120738.jpg" width="400" height="300">
+
 *****
 **紀錄日期:** 2022/6/30
 
