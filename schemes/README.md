@@ -17,7 +17,7 @@ Speed reduction ratio：1:34
 Operating Voltage：3~12V  
 ### Usage
 Drives the rear wheels of the vehicle in order to control it move forward 	and backward.
-![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/DC%20Motor.jpg)
+![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/JGA25%E2%80%90371%20Geared%20Motor.png)
 
 
 ## MG90S-Metal Gear Micro Servo Motor
@@ -31,7 +31,7 @@ Dead band width: 10 µs
 Temperature range: 0 ºC – 55 ºC  
 ### Usage
 Force the mechanical structure to let the vehicle turn.  
-![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/Servo.png)
+![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/MG90S%20Servo%20Motor.png)
 
 ## Lithium Polymer
 ### Specification
@@ -40,7 +40,7 @@ Net Weight：about 107g
 Nominal Voltage：11.1V  
 ### Usage
 Provides electricity for the Raspberry and other electromechanical components.  
-![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/Battery.png)
+![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/Lithium%20Polymer%20Battery.png)
 
 ## L293D Quadruple Half-H Drivers
 ### Specification
@@ -49,7 +49,7 @@ Output Current 0.6 mA Per Channel
 Peak Output Current 1.2 A Per Channel  
 ### Usage
 Controls GA25-371 Dc Gear Motor to turn clockwise, counterclockwise, and alters the direction of it.  
-![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/L293D%20motor%20driver.png)
+![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/L293D%20Quadruple%20Half-H%20Drivers.png)
 
 ## The button
 ### Specification
@@ -58,7 +58,7 @@ Pin amount：3 PINs
 Output signal：digital  
 ### Usage
 To send the starting signal before 	activating 	the program.  
-![image](https://user-images.githubusercontent.com/113166131/189469496-f8790314-3463-44ad-9eb1-7fda89b81ae4.png)
+![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/Button.png)
 
 ## ADIO-DC36V5A Switching power adapter
 ### Specification
@@ -67,7 +67,7 @@ Output Voltage：1.25V – 36.0V
 Operating Frequency：180Hz  
 ### Usage
 Stable the electricity that the lithium 	polymer provides.  
-![image](https://user-images.githubusercontent.com/113166131/189469707-94f5d17f-2a07-42f7-a9fe-a64ae910b90b.png)
+![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/Switching%20power.png)
 
 ## jmdo.96c OLED Display
 ### Specification
@@ -75,9 +75,7 @@ Operating Voltage：3.3V – 5.0V
 Pin : I2c  
 ### Usage
 To show some specific numerical data of the Raspberry.  
-![image](https://user-images.githubusercontent.com/113166131/189469767-1107920d-e78d-4a1e-add1-0ff70755c624.png)
-
-
+![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/OLED.png)
 
 ## Raspberry Pi Camera
 ### Specification
