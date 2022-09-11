@@ -35,9 +35,6 @@ https://reurl.cc/W18Wl9
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/sddefault.jpg" width="400" height="300">
 
-## Vehicle Design Concept
-車輛使用由雷射切割機切割的3mm木板與樂高零件組裝而成
-
 
 ## Introduces of Electromechanical Components
 
@@ -285,6 +282,15 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/0.1.png" width="400" height="500">
 
 *****
+**紀錄日期:** 2022/8/18
+
+**活動成員：** 林仲斌、林柏盛、李鼎為
+
+**工作內容：**
+
+在機型跑的過程中鏡頭總是誤測或是沒有測到積木直接繞過去，所以我們加入了超音波偵測是否有障礙物，在測試了一段時間才知道鏡頭有偵測到障礙物只是反應不及所以沒有閃避。
+
+*****
 **紀錄日期:** 2022/8/20
 
 **活動成員：** 林仲斌、林柏盛、李鼎為
@@ -296,6 +302,14 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/IMG_20220903_100536.jpg" width="600" height="300">
 
+*****
+**紀錄日期:** 2022/8/24
+
+**活動成員：** 林仲斌、林柏盛、李鼎為
+
+**工作內容：**
+
+鏡頭換過位置以後
 
 *****
 **紀錄日期:** 2022/8/26
