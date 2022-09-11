@@ -73,7 +73,7 @@ After reading the rule of the competition, we figured out some materials and ele
 *****
 **Date：** 2022/6/5 - 2022/6/7
 
-**Members：** 林仲斌 
+**Members：** LIN,ZHONG-BIN
 
 **Content：**
 
@@ -85,7 +85,7 @@ During these days, we started to design the construction of the vehicle. Dividin
 *****
 **Date:** 2022/6/8 - 2022/6/10 
 
-**Members：** 林仲斌
+**Members：** LIN,ZHONG-BIN
 
 **Content：**
 
@@ -96,7 +96,7 @@ Confirming the car's shape, we started off to choose the motors. For now we have
 *****
 **Date:** 2022/6/11
 
-**Members：** 林仲斌
+**Members：** LIN,ZHONG-BIN
 
 **Content：**
 
@@ -108,7 +108,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/6/12
 
-**活動成員：** 林仲斌
+**活動成員：** LIN,ZHONG-BIN
 
 **Content：**
 
@@ -119,7 +119,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/6/16 - 2022/6/17
 
-**Members：** 林仲斌
+**Members：** LIN,ZHONG-BIN
 
 **Content：**
 
@@ -130,7 +130,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/6/18 - 2022/6/19
 
-**Members：**  林仲斌
+**Members：**  LIN,ZHONG-BIN
 
 **Content：**
 
@@ -141,7 +141,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/6/22
 
-**Members：** 林仲斌
+**Members：** LIN,ZHONG-BIN
 
 **Content：**
 
@@ -152,7 +152,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/6/24 - 2022/6/26
 
-**Members：**  林仲斌
+**Members：**  LIN,ZHONG-BIN
 
 **Content：**
 
@@ -163,7 +163,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/6/28 - 2022/6/29
 
-**Members：**  林仲斌
+**Members：**  LIN,ZHONG-BIN
 
 **Content：**
 在完成了車輛的基本雛形後，我們挑選符合我們要求的控制器，經過討論我們對控制器的要求有以下：
@@ -179,7 +179,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/6/30
 
-**Members：**  林仲斌
+**Members：**  LIN,ZHONG-BIN
 
 **Content：**
 
@@ -190,7 +190,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/7/1 - 2022/7/10
 
-**Members：**  林仲斌
+**Members：**  LIN,ZHONG-BIN
 
 **工作內容：**
 
@@ -201,7 +201,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/7/16 - 2022/7/20
 
-***Members：**  林仲斌、林柏盛
+***Members：**  LIN,ZHONG-BIN、林柏盛
 
 **工作內容：**
 
@@ -212,7 +212,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/7/24
 
-**Members：**  林仲斌、林柏盛
+**Members：**  LIN,ZHONG-BIN、林柏盛
 
 **工作內容：**
 
@@ -221,7 +221,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：**2022/7/26
 
-**Members：**  林仲斌
+**Members：**  LIN,ZHONG-BIN
 
 **工作內容：**
 
@@ -232,7 +232,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：**2022/7/28
 
-**Members：**  林仲斌
+**Members：**  LIN,ZHONG-BIN
 
 **工作內容：**
   
@@ -243,7 +243,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/7/29 - 2022/7/30
 
-**Members：**  林仲斌、林柏盛
+**Members：**  LIN,ZHONG-BIN、林柏盛
 
 **工作內容：**
 
@@ -254,7 +254,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/8/2 - 2022/8/7
 
-**Members：**  林仲斌、林柏盛
+**Members：**  LIN,ZHONG-BIN、林柏盛
 
 **工作內容：**
 
@@ -265,7 +265,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：**2022/8/9
 
-**Members：**  林仲斌、林柏盛、李鼎為
+**Members：**  LIN,ZHONG-BIN、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -277,7 +277,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：**2022/8/12
 
-**Members：**  林仲斌、林柏盛、李鼎為
+**Members：**  LIN,ZHONG-BIN、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -288,7 +288,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：**2022/8/15
 
-**Members：**  林仲斌、林柏盛、李鼎為
+**Members：**  LIN,ZHONG-BIN、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -299,7 +299,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/8/18
 
-**Members：** 林仲斌、林柏盛、李鼎為
+**Members：** LIN,ZHONG-BIN、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -311,7 +311,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/8/20
 
-**Members：**  林仲斌、林柏盛、李鼎為
+**Members：**  LIN,ZHONG-BIN、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -323,7 +323,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：**2022/8/24
 
-**Members：**  林仲斌、林柏盛、李鼎為
+**Members：** LIN,ZHONG-BIN、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -334,7 +334,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：**2022/8/26
 
-**Members：**  林仲斌、林柏盛、李鼎為
+**Members：**  LIN,ZHONG-BIN、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -346,7 +346,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/9/3 - 2022/9/4
 
-**Members：**  林仲斌、林柏盛、李鼎為
+**Members：**  LIN,ZHONG-BIN、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -357,7 +357,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/9/7 - 2022/9/8
 
-**Members：**  林仲斌、林柏盛、李鼎為
+**Members：**  LIN,ZHONG-BIN、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -368,7 +368,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/9/10
 
-**Members：**  林仲斌、林柏盛、李鼎為
+**Members：**  LIN,ZHONG-BIN、林柏盛、李鼎為
 
 **工作內容：**
 
