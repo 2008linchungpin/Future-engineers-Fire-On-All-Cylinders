@@ -158,6 +158,8 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 我們將三層板子整合在一起，測量每層板子和元件的高度，選用高度合適的絕緣柱，並利用絕緣柱將三層板子縱向的固定在一起，形成車輛的基本雛形。
 
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6428.JPG" width="400" height="300">
+
 *****
 **紀錄日期:** 2022/6/28 - 2022/6/29
 
