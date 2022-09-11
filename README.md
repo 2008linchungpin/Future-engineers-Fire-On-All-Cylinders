@@ -39,6 +39,7 @@ https://reurl.cc/W18Wl9
 
 我們機設計構使用3millimeter的椴木經過雷射切割後拿來作成機器得底盤，還有使用樂高積木拿來作鏡頭的支撐，我們選擇樹梅派作為我們的車輛的控制器。
 
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/car.png" width="400" height="300">
 
 ## Introduces of Electromechanical Components
 
