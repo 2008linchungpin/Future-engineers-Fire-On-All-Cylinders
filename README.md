@@ -294,7 +294,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src =  "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/%E6%93%B7%E5%8F%96.PNG"  width="500" height="300">
 
 *****
-**Date：**2022/8/12
+**Date：** 2022/8/12
 
 **Members：**  LIN,ZHONG-BIN、LIN,BO-SHENG、LI,DING-WEI
 
