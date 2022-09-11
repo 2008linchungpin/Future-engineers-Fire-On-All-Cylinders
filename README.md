@@ -405,4 +405,4 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Content：**
 
-經過我們這四個月沒日沒夜努力不懈的測試與調整，我們終於能夠完整的讓機型完美無誤跑完全程。
+將壞掉的伺服馬達換掉了以後，在測試，我們終於能夠完整的讓機型完美無誤跑完全程。
