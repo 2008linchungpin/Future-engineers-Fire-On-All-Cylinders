@@ -318,6 +318,15 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6426.JPG" width="400" height="300">
 
 *****
+**紀錄日期:** 2022/9/7 - 2022/9/8
+
+**活動成員：** 林仲斌、林柏盛、李鼎為
+
+**工作內容：**
+
+我們將機構改小以後，機型上的感測器與樹梅派都要重新擺放，由於之前的機型比較大所以線比較長，把之前的線換到小台的機型上會因為線太長會勾到輪子擋到鏡頭，所以我們重新剪線繞線。
+
+*****
 **紀錄日期:** 2022/9/10
 
 **活動成員：** 林仲斌、林柏盛、李鼎為
