@@ -62,7 +62,7 @@ Raspberry Pi 4：In charge of all the models of vehicle controllers.
 
 **Date：** 2022/6/4
 
-**Members：** 林仲斌
+**Members：** LIN,ZHONG-BIN
 
 **Content：**
 
@@ -73,7 +73,7 @@ After reading the rule of the competition, we figured out some materials and ele
 *****
 **Date：** 2022/6/5 - 2022/6/7
 
-**Members：** 林仲斌 
+**Members：** LIN,ZHONG-BIN
 
 **Content：**
 
