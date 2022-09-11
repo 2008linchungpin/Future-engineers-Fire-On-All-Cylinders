@@ -337,7 +337,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 為了能夠在世界賽中拿到好的名次，所以我們決定要將機型的速度提升，所以我們把電路板重新焊小一點節省不必要的空間，再把機型的長度縮短這樣機型就能夠更靈活的轉彎與閃避障礙物。
 
-<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6426.JPG" width="400" height="300">
+
 
 *****
 **紀錄日期:** 2022/9/7 - 2022/9/8
@@ -347,6 +347,8 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 **工作內容：**
 
 我們將機構改小以後，機型上的感測器與樹梅派都要重新擺放，由於之前的機型比較大所以線比較長，把之前的線換到小台的機型上會因為線太長會勾到輪子擋到鏡頭，所以我們重新剪線繞線。
+
+<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6426.JPG" width="400" height="300">
 
 *****
 **紀錄日期:** 2022/9/10
