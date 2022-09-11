@@ -397,3 +397,12 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 今天我們練習時不知為何樹梅派一直重新開機，我們懷疑是杜邦線的問題，所以就把杜邦線一條一條的拆下來重新檢查，當我們已經把所有的杜邦線都檢查過一遍了都沒有損壞，卻始終找不到問題出在哪，之後又重新檢查了一遍，才發現是伺服馬達燒掉了，我們重新換過一顆伺服馬達以後就正常了。
 
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6422.JPG" width="450" height="300">
+
+*****
+**Date：** 2022/9/11
+
+**Members：**  LIN,ZHONG-BIN、LIN,BO-SHENG、LI,DING-WEI
+
+**Content：**
+
+經過我們一系列的測試修改與調整我們終於能夠完整的讓機型完美無誤跑完全程。
