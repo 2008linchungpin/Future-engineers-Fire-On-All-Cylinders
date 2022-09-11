@@ -36,7 +36,7 @@ https://reurl.cc/W18Wl9
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/sddefault.jpg" width="400" height="300">
 
 # 車輛介紹
-內文
+我們機型採用阿克曼轉向幾何利用四連桿的相等曲柄使內側輪的轉向角比外側輪大，使四個輪子路徑的圓心大致上交會於後軸的延長線上瞬時轉向中心，讓車輛可以順暢的轉彎，我們還有在馬達驅動的地方加上差速器允許內外側車輪以不同的速率進行旋轉，從而以不同的轉速來彌補距離的差異。
 圖片
 -----------------------------
 
