@@ -35,6 +35,10 @@ https://reurl.cc/W18Wl9
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/sddefault.jpg" width="400" height="300">
 
+# 車輛介紹
+內文
+圖片
+-----------------------------
 
 ## Introduces of Electromechanical Components
 
@@ -56,7 +60,16 @@ Raspberry pi Camera (G)：Images collecting and identifying.
 
 Arduino Ultrasonic Sensor : Calculate the length between the wall and the vehicle.  
 
-Raspberry Pi 4：In charge of all the models of vehicle controllers.  
+Raspberry Pi 4：In charge of all the models of vehicle controllers. 
+
+# 車輛結構介紹
+## 差速器
+內文
+圖片
+
+##轉向機構
+內文
+圖片
 
 ## Diary Log
 
