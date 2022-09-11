@@ -86,7 +86,7 @@ Operating Temperature : +60℃~-20℃
 Image collecting and identifying.  
 ![image](https://user-images.githubusercontent.com/113166131/189473771-bc6821f1-3c3d-4e15-9093-3bd6e288e301.png)
 
-## Arduino Ultrasonic Sensor
+## Ultrasonic Sensor
 ### Specification
 Max range : 400cm / 13 feet  
 Min range : 2cm / 1 inch  
