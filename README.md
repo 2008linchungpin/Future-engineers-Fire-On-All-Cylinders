@@ -314,6 +314,8 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 鏡頭換過位置以後基本上已經沒有其他太大的失誤，但還是會有機型轉太大導致差到障礙物，在解決問題以後我們就要開始準備去台北的備用零件。
 
+<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/113502.png" width="400" height="500">
+" width="600" height="300">
 *****
 **紀錄日期:** 2022/8/26
 
