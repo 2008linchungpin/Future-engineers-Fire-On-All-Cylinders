@@ -192,7 +192,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Members：**  LIN,ZHONG-BIN
 
-**工作內容：**
+**Content：**
 
 在完成架設電池的部分之後，我們就開始車輛的電路配置與Donkey car硬體設置，在使用Donkey car過程中時得知Donkey Car是一項開源專案，車輛的硬體配置可以自由開發與創造的軟體。
 
@@ -203,7 +203,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 ***Members：**  LIN,ZHONG-BIN、LIN,BO-SHENG
 
-**工作內容：**
+**Content：**
 
 我們將樹莓派與Donker軟體環境架設，在架設完成以後調整機器轉彎的舵向，調整過後就直接開始進行遙控機型拍攝場地照片訓練，經過訓練後機型可以自主跑完順時針逆時針的題目。
 
@@ -214,27 +214,27 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Members：**  LIN,ZHONG-BIN、LIN,BO-SHENG
 
-**工作內容：**
+**Content：**
 
 在訓練的時候機器總是會頓一下頓一下的行始，一開始我們以為電池電量不足或是馬達導致，之後換過電磁以後也是一樣，最後發現是杜邦線太常導致卡到輪胎。
 
 *****
-**Date：**2022/7/26
+**Date：** 2022/7/26
 
 **Members：**  LIN,ZHONG-BIN
 
-**工作內容：**
+**Content：**
 
 由於我們機型上面的杜邦線過於混亂，所以我們今天訓練完以後在回家之前把杜邦線都換掉重新剪線整理，避免機型在行駛過程中杜邦線太長勾到其他物品導致損毀。
 
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/IMG_20220810_102902.jpg" width="600" height="300">
 
 *****
-**Date：**2022/7/28
+**Date：** 2022/7/28
 
 **Members：**  LIN,ZHONG-BIN
 
-**工作內容：**
+**Content：**
   
 由於我們明天就要比中區賽了，為了避免我們在比賽過程中不知道該怎麼錄影出現錯誤，導致失格，所以我們今天進行了一場小型的模擬賽，訓練我們如何避免比賽中可能會遇到的問題。
 
@@ -245,7 +245,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Members：**  LIN,ZHONG-BIN、LIN,BO-SHENG
 
-**工作內容：**
+**Content：**
 
 今天是中區賽，跟去年中區賽一樣從中午12點比到隔天中午的12點為止，今年很可惜的是跟去年相比，今年較好的題目比去年的還要少。我們自從比賽開始就一直在等最短路徑，直到隔天的早上6點才出現最短路徑。
 
@@ -256,18 +256,18 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Members：**  LIN,ZHONG-BIN、LIN,BO-SHENG
 
-**工作內容：**
+**Content：**
 
 中區賽結束以後，我們就開始準備全國賽閃避積木的偵測，這幾天我們將積木由遠、中、近分別隨機擺放各拍70張照片，在匯出到電腦中框選進行圖型顏色的辨識。
 
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/156.jpg" width="500" height="300">
 
 *****
-**Date：**2022/8/9
+**Date：** 2022/8/9
 
 **Members：**  LIN,ZHONG-BIN、LIN,BO-SHENG、LI,DING-WEI
 
-**工作內容：**
+**Content：**
 
 經過一系列的測試過後，由於我們的技術尚未成熟所以用來辨識有點困難，所以我們目前決定要改用HLS偵測積木的色相、飽和度、亮度，這樣誤測的機率比較低。
 
@@ -279,18 +279,18 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Members：**  LIN,ZHONG-BIN、LIN,BO-SHENG、LI,DING-WEI
 
-**工作內容：**
+**Content：**
 
 由於我們鏡頭買錯，我們原本該用有紅外線濾鏡無夜視功能的鏡頭，結果我們買到無紅外線濾鏡有夜視功能的鏡頭，所以我們平常跑的過程中無法把太陽光濾掉所以跑起來不是很理想。
 
 <img src ="https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/IMG_20220815_103756.jpg" width="600" height="300">
 
 *****
-**Date：**2022/8/15
+**Date：** 2022/8/15
 
 **Members：**  LIN,ZHONG-BIN、LIN,BO-SHENG、LI,DING-WEI
 
-**工作內容：**
+**Content：**
 
 今天我們近乎把官方出的所有障礙物組合辨識完畢，另外我們還有重新編排出題，但是在測試過程中還是會出現鏡頭誤測的問題，需要再進行微調。
 
@@ -301,7 +301,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Members：** LIN,ZHONG-BIN、LIN,BO-SHENG、LI,DING-WEI
 
-**工作內容：**
+**Content：**
 
 在機型跑的過程中鏡頭總是誤測或是沒有測到積木直接繞過去，所以我們加入了超音波偵測是否有障礙物，在測試了一段時間才知道鏡頭有偵測到障礙物只是反應不及所以沒有閃避。
 
@@ -313,7 +313,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Members：**  LIN,ZHONG-BIN、LIN,BO-SHENG、LI,DING-WEI
 
-**工作內容：**
+**Content：**
 
 今天我們發現鏡頭會誤測多半是機型裝法的問題，所以我們就把鏡頭往後裝，順便把機型上的感測器換過位置後，再把線重繞以後鏡頭誤測的問題改善了很多。
 
@@ -321,22 +321,22 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/IMG_20220903_100536.jpg" width="600" height="300">
 
 *****
-**Date：**2022/8/24
+**Date：** 2022/8/24
 
 **Members：** LIN,ZHONG-BIN、LIN,BO-SHENG、LI,DING-WEI
 
-**工作內容：**
+**Content：**
 
 鏡頭換過位置以後基本上已經沒有其他太大的失誤，但還是會有機型轉太大導致差到障礙物，在解決問題以後我們就要開始準備去台北的備用零件。
 
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/113502.png" width="400" height="500">
 
 *****
-**Date：**2022/8/26
+**Date：** 2022/8/26
 
 **Members：**  LIN,ZHONG-BIN、LIN,BO-SHENG、LI,DING-WEI
 
-**工作內容：**
+***Content：**
 
 今天是WRO全國總決賽的日子，比賽時間上午為資格賽則下午比決賽，在比決賽開始之前我們要先比資格賽才能比下午的決賽，在兩趟資格賽跑完以後雖然成績不是很理想，但還是有進入決賽，我們第一場跑得很順利跑出了滿分的成績，但是在跑第二場時機器在閃紅色障礙物時轉彎轉的不夠大把紅色撞出來了導致第二場沒有滿分，但我們還是有驚無險的拿下第一名晉級世界賽。
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/0910.png" width="1000" height="120">
@@ -348,7 +348,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Members：**  LIN,ZHONG-BIN、LIN,BO-SHENG、LI,DING-WEI
 
-**工作內容：**
+v
 
 為了能夠在世界賽中拿到好的名次，所以我們決定要將機型的速度提升，所以我們把電路板重新焊小一點節省不必要的空間，再把機型的長度縮短這樣機型就能夠更靈活的轉彎與閃避障礙物。
 
@@ -359,7 +359,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Members：**  LIN,ZHONG-BIN、LIN,BO-SHENG、LI,DING-WEI
 
-**工作內容：**
+**Content：**
 
 我們將機構改小以後，機型上的感測器與樹梅派都要重新擺放，由於之前的機型比較大所以線比較長，把之前的線換到小台的機型上會因為線太長會勾到輪子擋到鏡頭，所以我們重新剪線繞線。
 
@@ -370,7 +370,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Members：**  LIN,ZHONG-BIN、LIN,BO-SHENG、LI,DING-WEI
 
-**工作內容：**
+**Content：**
 
 今天我們練習時不知為何樹梅派一直重新開機，我們懷疑是杜邦線的問題，所以就把杜邦線一條一條的拆下來重新檢查，當我們已經把所有的杜邦線都檢查過一遍了都沒有損壞，卻始終找不到問題出在哪，之後又重新檢查了一遍，才發現是伺服馬達燒掉了，我們重新換過一顆伺服馬達以後就正常了。
 
