@@ -290,6 +290,9 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 在機型跑的過程中鏡頭總是誤測或是沒有測到積木直接繞過去，所以我們加入了超音波偵測是否有障礙物，在測試了一段時間才知道鏡頭有偵測到障礙物只是反應不及所以沒有閃避。
 
+
+<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/tree/main/photo" width="400" height="500">
+
 *****
 **紀錄日期:** 2022/8/20
 
