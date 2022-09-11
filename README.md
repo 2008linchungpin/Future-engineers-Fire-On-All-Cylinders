@@ -66,12 +66,13 @@ Raspberry Pi 4：In charge of all the models of vehicle controllers.
 # 車輛結構介紹
 ## 差速器
 
-我們還有在馬達驅動的地方加上差速器允許內外側車輪以不同的速率進行旋轉，從而以不同的轉速來彌補距離的差異。
+In order to solve the problem that the path taken by the outer wheels is larger than the path taken by the inner wheels when turning, we install a differential.
+
 圖片
 
 ##轉向機構
 
-我們機型採用阿克曼轉向幾何利用四連桿的相等曲柄使內側輪的轉向角比外側輪大，使四個輪子路徑的圓心大致上交會於後軸的延長線上瞬時轉向中心，讓車輛可以順暢的轉彎。
+In order to have better steering, we design the steering rudder as Ackerman steering structure, and use the servo motor to control the steering of the steering rudder.
 圖片
 
 ## Diary Log
