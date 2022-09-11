@@ -41,7 +41,7 @@ https://reurl.cc/W18Wl9
 
 ## 車輛介紹
 
-我們機設計構使用3millimeter的椴木經過雷射切割後拿來作成機器的底盤，還有使用樂高積木拿來作鏡頭的支撐，我們選擇樹梅派作為我們的車輛的控制器。
+我們車輛主體使用3mm的木板經過雷射切割機切割後作成車輛的底盤，並搭配樂高零件設計轉向機構，使機器體積更小更堅固。樹梅派4不僅運算速度快，也適合用來影像辨識，所以選擇樹梅派4作為我們車輛的控制器。
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/car.png" width="400" height="300">
 
@@ -75,7 +75,7 @@ In order to solve the problem that the path taken by the outer wheels is larger 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_1749.JPG" width="400" height="300">
 
 
-##轉向機構
+## 轉向機構
 
 In order to have better steering, we design the steering rudder as Ackerman steering structure, and use the servo motor to control the steering of the steering rudder.
 
