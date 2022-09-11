@@ -186,6 +186,8 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 若控制器有能架設影像辨識AI的環境，那控制器勢必會是微電腦。考慮到這些條件，我們選擇樹梅派作為我們的車輛的控制器，且樹梅派有GPIO的腳位可以控制墊子元件。
 
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_20220911_122648.jpg" width="400" height="300">
+
 *****
 **紀錄日期:** 2022/7/1 - 2022/7/10
 
