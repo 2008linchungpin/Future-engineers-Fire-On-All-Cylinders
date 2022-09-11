@@ -110,7 +110,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **活動成員：** 林仲斌
 
-**工作內容：**
+**Content：**
 
 今天我們在車輛中層找了一個用於放置鋰電池位置，那個位置的大小正好可以放一個鋰電池在裡面。雖然我們所準備的位置與鋰電池的大小是符合的，但是在我們模擬車輛行駛的過程中，我們發現鋰電池很容易從車輛上滑落，所以我們用魔鬼氈束帶把鋰電池綑綁在車輛上。
 
@@ -119,9 +119,9 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/6/16 - 2022/6/17
 
-**活動成員：** 林仲斌
+**Members：** 林仲斌
 
-**工作內容：**
+**Content：**
 
 我們開始選擇控制車輛轉向的伺服馬達，考慮到車輛的轉向需要較大的力量，我們選用扭力較大的MG996R為控制車輛轉向的伺服馬達。MG996R的重量太重和尺寸大導致影響到車輛的結構。因MG996R存在這些問題，我們將MG996R替換成重量較輕尺寸較小的MG90S。
 
@@ -130,9 +130,9 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/6/18 - 2022/6/19
 
-**活動成員：** 林仲斌
+**Members：**  林仲斌
 
-**工作內容：**
+**Content：**
 
 在選定伺服馬達後，我們開始在設計MG90S在車輛上的固定，因為當MG90S固定在車體第二層時高度正好符合MG90S控制轉向機構所需的高度，因此我們將第二層的設計圖改為可以固定MG90S的設計。
 
@@ -141,9 +141,9 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/6/22
 
-**活動成員：** 林仲斌
+**Members：** 林仲斌
 
-**工作內容：**
+**Content：**
 
 完成了GA25-370和MG90S的安裝後，我們的車輛結構就已經差不多定型了，也就可以知道我們的車輛大概是長什麼樣子。第一層板子安裝GA25-370驅動的後輪驅動結構和前輪轉向機構；第二層板子安裝鋰電池和控制前輪轉向機構的MG90S；第三層板子我們計畫我們將會安裝車輛的主要控制器。
 
@@ -152,9 +152,9 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/6/24 - 2022/6/26
 
-**活動成員：** 林仲斌
+**Members：**  林仲斌
 
-**工作內容：**
+**Content：**
 
 我們將三層板子整合在一起，測量每層板子和元件的高度，選用高度合適的絕緣柱，並利用絕緣柱將三層板子縱向的固定在一起，形成車輛的基本雛形。
 
@@ -163,10 +163,9 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/6/28 - 2022/6/29
 
-**活動成員：** 林仲斌
+**Members：**  林仲斌
 
-**工作內容：**
-
+**Content：**
 在完成了車輛的基本雛形後，我們挑選符合我們要求的控制器，經過討論我們對控制器的要求有以下：
 
 1.有控制GPIO的訊號
@@ -180,9 +179,9 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/6/30
 
-**活動成員：** 林仲斌
+**Members：**  林仲斌
 
-**工作內容：**
+**Content：**
 
 若控制器有能架設影像辨識AI的環境，那控制器勢必會是微電腦。考慮到這些條件，我們選擇樹梅派作為我們的車輛的控制器，且樹梅派有GPIO的腳位可以控制墊子元件。
 
@@ -191,7 +190,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/7/1 - 2022/7/10
 
-**活動成員：** 林仲斌
+**Members：**  林仲斌
 
 **工作內容：**
 
@@ -200,9 +199,9 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/%E7%B7%9A%E8%B7%AF.jpg.png" width="400" height="300">
 
 *****
-**Date：**2022/7/16 - 2022/7/20
+**Date：** 2022/7/16 - 2022/7/20
 
-**活動成員：** 林仲斌、林柏盛
+***Members：**  林仲斌、林柏盛
 
 **工作內容：**
 
@@ -213,7 +212,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/7/24
 
-**活動成員：** 林仲斌、林柏盛
+**Members：**  林仲斌、林柏盛
 
 **工作內容：**
 
@@ -222,7 +221,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：**2022/7/26
 
-**活動成員：** 林仲斌
+**Members：**  林仲斌
 
 **工作內容：**
 
@@ -233,7 +232,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：**2022/7/28
 
-**活動成員：** 林仲斌
+**Members：**  林仲斌
 
 **工作內容：**
   
@@ -244,7 +243,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/7/29 - 2022/7/30
 
-**活動成員：** 林仲斌、林柏盛
+**Members：**  林仲斌、林柏盛
 
 **工作內容：**
 
@@ -255,7 +254,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/8/2 - 2022/8/7
 
-**活動成員：** 林仲斌、林柏盛
+**Members：**  林仲斌、林柏盛
 
 **工作內容：**
 
@@ -266,7 +265,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：**2022/8/9
 
-**活動成員：** 林仲斌、林柏盛、李鼎為
+**Members：**  林仲斌、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -278,7 +277,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：**2022/8/12
 
-**活動成員：** 林仲斌、林柏盛、李鼎為
+**Members：**  林仲斌、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -289,7 +288,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：**2022/8/15
 
-**活動成員：** 林仲斌、林柏盛、李鼎為
+**Members：**  林仲斌、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -300,7 +299,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/8/18
 
-**活動成員：** 林仲斌、林柏盛、李鼎為
+**Members：** 林仲斌、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -312,7 +311,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/8/20
 
-**活動成員：** 林仲斌、林柏盛、李鼎為
+**Members：**  林仲斌、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -324,7 +323,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：**2022/8/24
 
-**活動成員：** 林仲斌、林柏盛、李鼎為
+**Members：**  林仲斌、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -335,7 +334,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：**2022/8/26
 
-**活動成員：** 林仲斌、林柏盛、李鼎為
+**Members：**  林仲斌、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -347,7 +346,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/9/3 - 2022/9/4
 
-**活動成員：** 林仲斌、林柏盛、李鼎為
+**Members：**  林仲斌、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -358,7 +357,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/9/7 - 2022/9/8
 
-**活動成員：** 林仲斌、林柏盛、李鼎為
+**Members：**  林仲斌、林柏盛、李鼎為
 
 **工作內容：**
 
@@ -369,7 +368,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 *****
 **Date：** 2022/9/10
 
-**活動成員：** 林仲斌、林柏盛、李鼎為
+**Members：**  林仲斌、林柏盛、李鼎為
 
 **工作內容：**
 
