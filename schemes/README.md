@@ -1,14 +1,14 @@
 # Electromechanical diagrams
 
 ## Components's Position
-![image](https://user-images.githubusercontent.com/113166131/189475462-862b99e8-51cb-48d2-9cae-eab7beeac132.png)
+![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/Car%20configuration.png)
 
 ## Raspberry Pi 4 
 ### Specification
   With the Advanced RISC Machine(ARM) produced by Broadcom Corporation , the total memory capacity of it is 8 Giga bytes.The TransFlash card of it serves as the system’s main storage media. equipped the U - SB interface device and the output of High Definition Multimedia Interface, it can adapt with several types of operating systems.
 ### Usage
 Collects photos from the lens and carries out the image identifying, controls the vehicle to move ,and ,last but not least, used to write the program.   
-![image](https://user-images.githubusercontent.com/113166131/189469846-a90bbce4-4a87-4ed1-817f-9d4ca6c97971.png)
+![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/Raspberry%20pi%204.png)
 
 ## JGA25‐371 Geared Motor with Encoder
 ### Specification
@@ -17,7 +17,7 @@ Speed reduction ratio：1:34
 Operating Voltage：3~12V  
 ### Usage
 Drives the rear wheels of the vehicle in order to control it move forward 	and backward.
-![image](https://user-images.githubusercontent.com/113166131/189468842-8629b703-f441-40f1-b44b-c4dba3818728.png)
+![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/DC%20Motor.jpg)
 
 
 ## MG90S-Metal Gear Micro Servo Motor
@@ -31,7 +31,7 @@ Dead band width: 10 µs
 Temperature range: 0 ºC – 55 ºC  
 ### Usage
 Force the mechanical structure to let the vehicle turn.  
-![image](https://user-images.githubusercontent.com/113166131/189469097-c75c4917-c656-4a33-bd9d-7bed1d069bfe.png)
+![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/Servo.png)
 
 ## Lithium Polymer
 ### Specification
@@ -40,7 +40,7 @@ Net Weight：about 107g
 Nominal Voltage：11.1V  
 ### Usage
 Provides electricity for the Raspberry and other electromechanical components.  
-![image](https://user-images.githubusercontent.com/113166131/189469718-67290ec5-fe63-4a7a-bebe-b0acd80739f9.png)
+![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/Battery.png)
 
 ## L293D Quadruple Half-H Drivers
 ### Specification
@@ -49,7 +49,7 @@ Output Current 0.6 mA Per Channel
 Peak Output Current 1.2 A Per Channel  
 ### Usage
 Controls GA25-371 Dc Gear Motor to turn clockwise, counterclockwise, and alters the direction of it.  
-![image](https://user-images.githubusercontent.com/113166131/189469406-4d59de44-3bfc-4d01-9a6a-36307ff29f9d.png)
+![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/L293D%20motor%20driver.png)
 
 ## The button
 ### Specification
