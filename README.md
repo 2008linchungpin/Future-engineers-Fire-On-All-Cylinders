@@ -170,8 +170,6 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 車輛安裝完直流馬達與伺服馬達後，車輛剩下控制器尚未安裝，而控制器我們選擇使用樹梅派4，之所以選擇使用樹梅派4是因為，樹梅派4城市運算效能高體積小，更適合用來ˊ做影像辨識功能。我們將樹梅派4安裝於第三層位置，將樹梅派與第三能的3mm木板用裸絲固定起來。
 
-<img src= "https://user-images.githubusercontent.com/106851896/178095123-246d669c-eba8-4565-8163-6c9fec77631e.jpg" width="400" height="300"> <img src= "https://user-images.githubusercontent.com/106851896/178095288-702f8c3b-1e6e-4c7c-b58e-0acd271287a4.jpg" width="400" height="300">
-
 *****
 **Date：** 2022/6/24 - 2022/6/26
 
