@@ -39,7 +39,7 @@ https://reurl.cc/W18Wl9
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/sddefault.jpg" width="400" height="300">
 
-## 車輛介紹
+## Vehicle Design Concept
 (GOOGLE翻譯)
 The main body of our vehicle is made of a 3mm wooden board after being cut by a laser cutting machine to make the chassis of the vehicle, and the steering mechanism is designed with Lego parts to make the machine smaller and stronger. The Raspberry Pi 4 is not only fast in operation, but also suitable for image recognition, so the Raspberry Pi 4 is chosen as the controller of our vehicle.
 
