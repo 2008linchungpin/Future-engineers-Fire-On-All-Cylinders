@@ -187,6 +187,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 **Members：**  LIN,ZHONG-BIN
 
 **Content：**
+
 在完成了車輛的基本雛形後，我們挑選符合我們要求的控制器，經過討論我們對控制器的要求有以下：
 
 1.有控制GPIO的訊號
