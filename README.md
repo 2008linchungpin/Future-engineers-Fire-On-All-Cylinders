@@ -41,7 +41,7 @@ https://reurl.cc/W18Wl9
 
 ## 車輛介紹
 
-我們車輛主體使用3mm的木板經過雷射切割機切割後作成車輛的底盤，並搭配樂高零件設計轉向機構，使機器體積更小更堅固。樹梅派4不僅運算速度快，也適合用來影像辨識，所以選擇樹梅派4作為我們車輛的控制器。
+We use 3mm planks which were cut by the laser beam cutting machine as the chassis of our vehicle and design the turning section along with LEGO blocks with the intention of shrinking the dimension and stabilizing it. On top of that, considering that the Raspberry Pi 4 isn't only quick in operating but is suitable for image identifying, we chose it as the main controller of our vehicle.
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/car.png" width="400" height="300">
 
@@ -68,14 +68,14 @@ Arduino Ultrasonic Sensor : Calculate the length between the wall and the vehicl
 Raspberry Pi 4：In charge of all the models of vehicle controllers. 
 
 # 車輛結構介紹
-## 差速器
+## Differential
 
 In order to solve the problem that the path taken by the outer wheels is larger than the path taken by the inner wheels when turning, we install a differential.
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_1749.JPG" width="400" height="300">
 
 
-## 轉向機構
+## The Turing Section
 
 In order to have better steering, we design the steering rudder as Ackerman steering structure, and use the servo motor to control the steering of the steering rudder.
 
