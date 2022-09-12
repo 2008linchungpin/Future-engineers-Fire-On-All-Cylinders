@@ -25,7 +25,7 @@ Taiping Junior High School
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_1738.JPG" width="400" height="300">
 
 
-**Team Funny Photo**
+**A Funny One**
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_1740.JPG" width="400" height="300">
 
@@ -39,9 +39,7 @@ https://reurl.cc/W18Wl9
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/sddefault.jpg" width="400" height="300">
 
-## Vehicle Design Concept
-(GOOGLE翻譯)
-The main body of our vehicle is made of a 3mm wooden board after being cut by a laser cutting machine to make the chassis of the vehicle, and the steering mechanism is designed with Lego parts to make the machine smaller and stronger. The Raspberry Pi 4 is not only fast in operation, but also suitable for image recognition, so the Raspberry Pi 4 is chosen as the controller of our vehicle.
+## 車輛介紹
 
 我們車輛主體使用3mm的木板經過雷射切割機切割後作成車輛的底盤，並搭配樂高零件設計轉向機構，使機器體積更小更堅固。樹梅派4不僅運算速度快，也適合用來影像辨識，所以選擇樹梅派4作為我們車輛的控制器。
 
@@ -137,9 +135,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Content：**
 
-今天我們將12V電池安裝上車輛，並將降壓電路板的輸出電壓調整為5V，
-
-今天我們在車輛中層找了一個用於放置鋰電池位置，那個位置的大小正好可以放一個鋰電池在裡面。雖然我們所準備的位置與鋰電池的大小是符合的，但是在我們模擬車輛行駛的過程中，我們發現鋰電池很容易從車輛上滑落，所以我們用魔鬼氈束帶把鋰電池綑綁在車輛上。
+今天我們將12V電池安裝上車輛，並將降壓電路板的輸出電壓調整為5V。完成電池的安裝後接著測試車輛的轉功能與驅動馬達功能，經過測試後發現，車輛在行駛過程中電池會被甩出車輛外，導致可能發生危險，於是我們想到可以用魔鬼氈將電池固定在車輛上，魔鬼氈不僅可以固定電池也可以隨時將電池拔下來充電。
 
 <img src= "https://user-images.githubusercontent.com/106851896/176991414-0866b49d-fd78-4443-be90-2231f7c6d430.jpg" width="400" height="300">
 
@@ -150,7 +146,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Content：**
 
-我們開始選擇控制車輛轉向的伺服馬達，考慮到車輛的轉向需要較大的力量，我們選用扭力較大的MG996R為控制車輛轉向的伺服馬達。MG996R的重量太重和尺寸大導致影響到車輛的結構。因MG996R存在這些問題，我們將MG996R替換成重量較輕尺寸較小的MG90S。
+起初我們選擇使用MG996R伺服馬達用來驅動轉向機構，我們發現我們安裝於轉向機構上的MG996R伺服馬達雖然扭力大，但重量較重馬達的旋轉速度太慢，導致車輛沒辦法快速轉彎而撞牆，後來我們選擇使用SG90S伺服馬達，SG90S伺服馬達旋轉速度快而且體積也更小，逞車輛可以更容易通過彎道。
 
 <img src= "https://user-images.githubusercontent.com/106851896/178086536-d1ad5c58-ee7f-4514-9b3d-6e2d4f79cfdf.jpg" width="400" height="300"> <img src= "https://user-images.githubusercontent.com/106851896/178086538-f11aecf4-af52-4141-a643-7ee231f0d225.jpg" width="400" height="300">
 
@@ -161,7 +157,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Content：**
 
-在選定伺服馬達後，我們開始在設計MG90S在車輛上的固定，因為當MG90S固定在車體第二層時高度正好符合MG90S控制轉向機構所需的高度，因此我們將第二層的設計圖改為可以固定MG90S的設計。
+由於我們車輛更換轉向機構上的伺服馬達，我們必須重新設計機構讓SG90S伺服馬達可以安裝於車輛上。我們將SG960S伺服馬達共訂在車輛的第二層中，更方便讓轉向機構連接，轉向機構運作起來更順暢。
 
 <img src= "https://user-images.githubusercontent.com/106851896/178087399-1efc9875-dcfc-4141-bd51-6f2f8170cec8.PNG" width="550" height="300">
 
@@ -172,7 +168,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Content：**
 
-完成了GA25-370和MG90S的安裝後，我們的車輛結構就已經差不多定型了，也就可以知道我們的車輛大概是長什麼樣子。第一層板子安裝GA25-370驅動的後輪驅動結構和前輪轉向機構；第二層板子安裝鋰電池和控制前輪轉向機構的MG90S；第三層板子我們計畫我們將會安裝車輛的主要控制器。
+車輛安裝完直流馬達與伺服馬達後，車輛剩下控制器尚未安裝，而控制器我們選擇使用樹梅派4，之所以選擇使用樹梅派4是因為，樹梅派4城市運算效能高體積小，更適合用來ˊ做影像辨識功能。我們將樹梅派4安裝於第三層位置，將樹梅派與第三能的3mm木板用裸絲固定起來。
 
 <img src= "https://user-images.githubusercontent.com/106851896/178095123-246d669c-eba8-4565-8163-6c9fec77631e.jpg" width="400" height="300"> <img src= "https://user-images.githubusercontent.com/106851896/178095288-702f8c3b-1e6e-4c7c-b58e-0acd271287a4.jpg" width="400" height="300">
 
