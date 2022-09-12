@@ -130,7 +130,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 
 *****
-**Date：** 2022/6/16 - 2022/6/17
+**Date：** 2022/6/13 - 2022/6/14
 
 **Members：** LIN,ZHONG-BIN
 
@@ -141,7 +141,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src= "https://user-images.githubusercontent.com/106851896/178086536-d1ad5c58-ee7f-4514-9b3d-6e2d4f79cfdf.jpg" width="400" height="300"> <img src= "https://user-images.githubusercontent.com/106851896/178086538-f11aecf4-af52-4141-a643-7ee231f0d225.jpg" width="400" height="300">
 
 *****
-**Date：** 2022/6/18 - 2022/6/19
+**Date：** 2022/6/17 - 2022/6/18
 
 **Members：**  LIN,ZHONG-BIN
 
@@ -152,7 +152,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src= "https://user-images.githubusercontent.com/106851896/178087399-1efc9875-dcfc-4141-bd51-6f2f8170cec8.PNG" width="550" height="300">
 
 *****
-**Date：** 2022/6/22
+**Date：** 2022/6/20
 
 **Members：** LIN,ZHONG-BIN
 
@@ -161,7 +161,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 車輛安裝完直流馬達與伺服馬達後，車輛剩下控制器尚未安裝，而控制器我們選擇使用樹梅派4，之所以選擇使用樹梅派4是因為，樹梅派4程式運算效能高體積小，更適合用來ˊ做影像辨識功能。我們將樹梅派4安裝於第三層位置，將樹梅派與第三能的3mm木板用裸絲固定起來。
 
 *****
-**Date：** 2022/6/24 - 2022/6/26
+**Date：** 2022/6/23 - 2022/6/25
 
 **Members：**  LIN,ZHONG-BIN
 
@@ -172,7 +172,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6428.JPG" width="400" height="300">
 
 *****
-**Date：** 2022/6/28 - 2022/6/29
+**Date：** 2022/6/27 - 2022/6/28
 
 **Members：**  LIN,ZHONG-BIN
 
@@ -189,7 +189,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_20220911_120738.jpg" width="400" height="300">
 
 *****
-**Date：** 2022/6/30
+**Date：** 2022/6/29
 
 **Members：**  LIN,ZHONG-BIN
 
@@ -200,7 +200,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_20220911_122648.jpg" width="400" height="300">
 
 *****
-**Date：** 2022/6/12
+**Date：** 2022/6/30
 
 **Members：** LIN,ZHONG-BIN
 
