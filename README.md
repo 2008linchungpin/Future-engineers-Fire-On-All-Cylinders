@@ -135,6 +135,8 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Content：**
 
+今天我們將12V電池安裝上車輛，並將降壓電路板的輸出電壓調整為5V，
+
 今天我們在車輛中層找了一個用於放置鋰電池位置，那個位置的大小正好可以放一個鋰電池在裡面。雖然我們所準備的位置與鋰電池的大小是符合的，但是在我們模擬車輛行駛的過程中，我們發現鋰電池很容易從車輛上滑落，所以我們用魔鬼氈束帶把鋰電池綑綁在車輛上。
 
 <img src= "https://user-images.githubusercontent.com/106851896/176991414-0866b49d-fd78-4443-be90-2231f7c6d430.jpg" width="400" height="300">
