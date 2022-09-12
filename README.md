@@ -39,7 +39,7 @@ https://reurl.cc/W18Wl9
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/sddefault.jpg" width="400" height="300">
 
-## 車輛介紹
+## Vehicle Introduction
 
 We use 3mm planks which were cut by the laser beam cutting machine as the chassis of our vehicle and design the turning section along with LEGO blocks with the intention of shrinking the dimension and stabilizing it. On top of that, considering that the Raspberry Pi 4 isn't only quick in operating but is suitable for image identifying, we chose it as the main controller of our vehicle.
 
