@@ -128,15 +128,6 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 <img src= "https://user-images.githubusercontent.com/106851896/176989980-82d65ada-de48-4de4-8b35-44c4a550eb33.jpg" width="400" height="300">
 
-*****
-**Date：** 2022/6/12
-
-**活動成員：** LIN,ZHONG-BIN
-
-**Content：**
-
-今天我們將12V電池安裝上車輛，並將降壓電路板的輸出電壓調整為5V。完成電池的安裝後接著測試車輛的轉功能與驅動馬達功能，經過測試後發現，車輛在行駛過程中電池會被甩出車輛外，導致可能發生危險，於是我們想到可以用魔鬼氈將電池固定在車輛上，魔鬼氈不僅可以固定電池也可以隨時將電池拔下來充電。
-
 
 *****
 **Date：** 2022/6/16 - 2022/6/17
@@ -207,6 +198,16 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 若控制器有能架設影像辨識AI的環境，那控制器勢必會是微電腦。考慮到這些條件，我們選擇樹梅派作為我們的車輛的控制器，且樹梅派有GPIO的腳位可以控制墊子元件。
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_20220911_122648.jpg" width="400" height="300">
+*****
+**Date：** 2022/6/12
+
+**活動成員：** LIN,ZHONG-BIN
+
+**Content：**
+
+今天我們將12V電池安裝上車輛，並將降壓電路板的輸出電壓調整為5V。完成電池的安裝後接著測試車輛的轉功能與驅動馬達功能，經過測試後發現，車輛在行駛過程中電池會被甩出車輛外，導致可能發生危險，於是我們想到可以用魔鬼氈將電池固定在車輛上，魔鬼氈不僅可以固定電池也可以隨時將電池拔下來充電。
+
+<img src= "https://user-images.githubusercontent.com/106851896/176989980-82d65ada-de48-4de4-8b35-44c4a550eb33.jpg" width="400" height="300">
 
 *****
 **Date：** 2022/7/1 - 2022/7/10
