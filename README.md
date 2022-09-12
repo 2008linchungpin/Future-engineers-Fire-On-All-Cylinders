@@ -158,7 +158,9 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Content：**
 
-車輛安裝完直流馬達與伺服馬達後，車輛剩下控制器尚未安裝，而控制器我們選擇使用樹梅派4，之所以選擇使用樹梅派4是因為，樹梅派4程式運算效能高體積小，更適合用來ˊ做影像辨識功能。我們將樹梅派4安裝於第三層位置，將樹梅派與第三能的3mm木板用裸絲固定起來。
+我們將三層板子整合在一起，測量每層板子和元件的高度，選用高度合適的絕緣柱，並利用絕緣柱將三層板子縱向的固定在一起，形成車輛的基本雛形。
+
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6428.JPG" width="400" height="300">
 
 *****
 **Date：** 2022/6/23 - 2022/6/25
@@ -167,9 +169,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Content：**
 
-我們將三層板子整合在一起，測量每層板子和元件的高度，選用高度合適的絕緣柱，並利用絕緣柱將三層板子縱向的固定在一起，形成車輛的基本雛形。
-
-<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6428.JPG" width="400" height="300">
+車輛安裝完直流馬達與伺服馬達後，車輛剩下控制器尚未安裝，而控制器我們選擇使用樹梅派4，之所以選擇使用樹梅派4是因為，樹梅派4程式運算效能高體積小，更適合用來ˊ做影像辨識功能。我們將樹梅派4安裝於第三層位置，將樹梅派與第三能的3mm木板用裸絲固定起來。
 
 *****
 **Date：** 2022/6/27 - 2022/6/28
