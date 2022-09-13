@@ -1,6 +1,6 @@
 # Program Introduction
 ## Programming Language
-We choose Pyson as our Programming.
+We choose Pyson as our Programming Language.
 
 ![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/src/Python_Picture.png)
 
