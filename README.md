@@ -67,7 +67,7 @@ Arduino Ultrasonic Sensor : Calculate the length between the wall and the vehicl
 
 Raspberry Pi 4：In charge of all the models of vehicle controllers. 
 
-# 車輛結構介紹
+# Vehicle Structure Introduction
 ## Differential
 
 In order to solve the problem that the path taken by the outer wheels is larger than the path taken by the inner wheels when turning, we install a differential.
