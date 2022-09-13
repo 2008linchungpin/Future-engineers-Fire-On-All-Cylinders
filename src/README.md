@@ -1,6 +1,6 @@
-# 程式介紹
-## 程式語言
-我們選擇Pytohn作為車輛的程式語言
+# Program Introduction
+## Programming Language
+We choose Pyson as our Programming.
 
 ![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/src/Python_Picture.png)
 
@@ -8,16 +8,17 @@ Python is a high-level, general-purpose programming language. Its design philoso
 Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a "batteries included" language due to its comprehensive standard library.
 
 ## 各程式功能
-`HSV_Test.py`-調整紅色積木與綠色積木的HSV數值
+`HSV_Test.py`-Adjust the valume of HSV of red and green blocks.
 
-`Motor_Control_Function`-直流馬達控制功能
+`Motor_Control_Function`-Control the Dc Geared Motor.
 
-`Sonar_Trigger_Echo.py`-超音波感應器運算功能
+`Sonar_Trigger_Echo.py`-Ultrasonic sensor operating.
 
-`TCS34725.py`-顏色感應器運算功能
+`TCS34725.py`-RGB Color Sensor operating.
 
-`Tool_Function.py`-常用的程式運算功能
+`Tool_Function.py`-Common programs operating.
 
-`Finals.py`-決賽程式碼
+`Finals.py`-Codes forthe Final.
 
-`Qualification.py`-資格賽程式碼
+`Qualification.py`-Codes for the Qualification.
+
