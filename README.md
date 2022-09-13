@@ -123,7 +123,7 @@ Confirming the car's shape, we started off to choose the motors. For now we have
 
 **Content：**
 
-Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L298n Dc Motor Drive to control the movement of the GA25-370 Dc Gear Motor. On the other hand, L298n needs a external power supply. So we design a route that connects the L298n Dc Motor Drive to a 12-volt l
+Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L298n Dc Motor Drive to control the movement of the GA25-370 Dc Gear Motor. On the other hand, L298n needs a external power supply. So we design a route that connects the L298n Dc Motor Drive to a 12-volt lithium polymer.
 考慮到GA25-370需要12v的工作電壓，我們安裝L298n直流馬達控制板控制GA25-370直流馬達的動作。因為L298n直流馬達控制板需外接電源，所以我們製作了一個12v的鋰電池連接到L298n直流馬達控制板的線。
 
 <img src= "https://user-images.githubusercontent.com/106851896/176989980-82d65ada-de48-4de4-8b35-44c4a550eb33.jpg" width="400" height="300">
@@ -136,11 +136,8 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Content：**
 
-(Google翻譯)
+At first, we chose to use the MG996R servo motor to drive the steering mechanism. Though the MG996R servo motor we installed on the steering mechanism had a large torque, with the heavy weight it got, its rotation speed was too slow, so that the vehicle would rather crush into the wall than turn into the correct position. In the end, we chose the SG90S servo motor in view of the lighter weight and  the faster rotate speed which make it easier for the car to pass through the curve.
 
-At first, we chose to use the MG996R servo motor to drive the steering mechanism. We found that the MG996R servo motor we installed on the steering mechanism had a large torque, but the rotation speed of the heavy motor was too slow, so that the vehicle could not turn quickly and hit the wall. Later We chose to use the SG90S servo motor. The SG90S servo motor rotates faster and is smaller, making it easier for the car to pass through the curve.
-
-起初我們選擇使用MG996R伺服馬達用來驅動轉向機構，我們發現我們安裝於轉向機構上的MG996R伺服馬達雖然扭力大，但重量較重馬達的旋轉速度太慢，導致車輛沒辦法快速轉彎而撞牆，後來我們選擇使用SG90S伺服馬達，SG90S伺服馬達旋轉速度快而且體積也更小，逞車輛可以更容易通過彎道。
 
 <img src= "https://user-images.githubusercontent.com/106851896/178086536-d1ad5c58-ee7f-4514-9b3d-6e2d4f79cfdf.jpg" width="400" height="300"> <img src= "https://user-images.githubusercontent.com/106851896/178086538-f11aecf4-af52-4141-a643-7ee231f0d225.jpg" width="400" height="300">
 
