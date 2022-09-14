@@ -147,11 +147,8 @@ At first, we chose to use the MG996R servo motor to drive the steering mechanism
 
 **Content：**
 
-(Google翻譯)
+Based on the displacement of the servo motor on the steering mechanism of our vehicle, we had to redesign the mechanism so that the SG90S servo motor could be mounted onto it. We put the SG960S servo motor on the second layer of the vehicle, being more convenient to connect to the steering mechanism. What's more, the steering mechanism operates more smoothly as we did so.
 
-Since our vehicle replaced the servo motor on the steering mechanism, we had to redesign the mechanism so that the SG90S servo motor could be mounted on the vehicle. We put the SG960S servo motor in the second layer of the vehicle, which is more convenient to connect the steering mechanism, and the steering mechanism operates more smoothly.
-
-由於我們車輛更換轉向機構上的伺服馬達，我們必須重新設計機構讓SG90S伺服馬達可以安裝於車輛上。我們將SG960S伺服馬達共訂在車輛的第二層中，更方便讓轉向機構連接，轉向機構運作起來更順暢。
 
 <img src= "https://user-images.githubusercontent.com/106851896/178087399-1efc9875-dcfc-4141-bd51-6f2f8170cec8.PNG" width="550" height="300">
 
@@ -162,11 +159,8 @@ Since our vehicle replaced the servo motor on the steering mechanism, we had to 
 
 **Content：**
 
-(google翻譯)
+We integrated those three layer of boards together, measured the height of it and the components. Selecting the insulating columns that're suitable for those abovementioned things, we used them to fix the layers together longitudinally for the purpose of forming the basic prototype of the vehicle.
 
-We integrate the three-layer boards together, measure the height of each layer of boards and components, select insulating columns with appropriate height, and use insulating columns to fix the three-layer boards together longitudinally to form the basic prototype of the vehicle.
-
-我們將三層板子整合在一起，測量每層板子和元件的高度，選用高度合適的絕緣柱，並利用絕緣柱將三層板子縱向的固定在一起，形成車輛的基本雛形。
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6428.JPG" width="400" height="300">
 
@@ -177,11 +171,8 @@ We integrate the three-layer boards together, measure the height of each layer o
 
 **Content：**
 
-(Google翻譯)
+If the controller has an environment capable of setting up AI image recognitions, the controller is bound to be a microcomputer. Considering this condition, we chose the Raspberry Pi 4 with GPIO pins to control the pad components as the controller of our vehicle.
 
-If the controller has an environment capable of setting up image recognition AI, the controller is bound to be a microcomputer. Considering these conditions, we choose the Raspberry Pi as the controller of our vehicle, and the Raspberry Pi has GPIO pins to control the pad components.
-
-若控制器有能架設影像辨識AI的環境，那控制器勢必會是微電腦。考慮到這些條件，我們選擇樹梅派作為我們的車輛的控制器，且樹梅派有GPIO的腳位可以控制墊子元件。
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_20220911_122648.jpg" width="400" height="300">
 
@@ -191,11 +182,9 @@ If the controller has an environment capable of setting up image recognition AI,
 **Members：**  LIN,ZHONG-BIN
 
 **Content：**
-(Google翻譯)
 
-After the DC motor and servo motor are installed in the vehicle, the controller is not yet installed in the vehicle, and we choose to use the Raspberry Pi 4. The reason why we choose to use the Raspberry Pi 4 is that the Raspberry Pi 4 has high program computing efficiency and small size. , more suitable for image recognition function. We installed Plum Pie 4 on the third layer, and fixed the Plum Pie and the 3mm wooden board of the third energy with bare wire.
+With only the Dc motor and servo motor installed in the vehicle, the controller is not yet finished. We chose to use the Raspberry Pi 4, and for the reason, owing to the high program computing efficiency and small size it provides, it makes the function of image recognizing far superior. We installed Raspberry Pi 4 on the third (the lowest) layer, and then fixed it onto the layer with plastic screws.
 
-車輛安裝完直流馬達與伺服馬達後，車輛剩下控制器尚未安裝，而控制器我們選擇使用樹梅派4，之所以選擇使用樹梅派4是因為，樹梅派4程式運算效能高體積小，更適合用來ˊ做影像辨識功能。我們將樹梅派4安裝於第三層位置，將樹梅派與第三能的3mm木板用裸絲固定起來。
 
 *****
 **Date：** 2022/6/29
