@@ -75,3 +75,9 @@ In order to solve the problem that the path taken by the outer wheels is larger 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_1749.JPG" width="400" height="300">
 
 
+## The Steering Mechanism
+
+In order to have better steering, we design the steering rudder as Ackerman steering structure, and use the servo motor to control the steering of the steering rudder.
+
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_1748.png" width="400" height="300">
+
