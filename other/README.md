@@ -139,9 +139,9 @@ After completing the basic prototype of the vehicle, we select the controller th
 
 (Google翻譯)
 
-Today we installed the 12V battery on the vehicle and adjusted the output voltage of the step-down circuit board to 5V. After the installation of the battery, we will test the rotation function and drive motor function of the vehicle. After testing, it is found that the battery will be thrown out of the vehicle during the driving process, which may cause danger. So we thought that we can use a devil felt to fix the battery in the vehicle. On the vehicle, the devil felt can not only fix the battery but also unplug the battery for charging at any time.
+Today we installed the 12V battery on the vehicle and adjusted the output voltage of the step-down circuit board to 5V. After completing the battery installation, we then tested the vehicle's turning function and drive motor function. After testing, it was found that the battery would be thrown out of the vehicle during driving, causing the model to roll over, so we thought that we could use a devil felt to fix the battery. On the vehicle, the devil felt can not only fix the battery but also unplug the battery for charging at any time.
 
-今天我們將12V電池安裝上車輛，並將降壓電路板的輸出電壓調整為5V。完成電池的安裝後接著測試車輛的轉功能與驅動馬達功能，經過測試後發現，車輛在行駛過程中電池會被甩出車輛外，導致可能發生危險，於是我們想到可以用魔鬼氈將電池固定在車輛上，魔鬼氈不僅可以固定電池也可以隨時將電池拔下來充電。
+今天我們將12V電池安裝上車輛，並將降壓電路板的輸出電壓調整為5V。完成電池的安裝後接著測試車輛的轉功能與驅動馬達功能，經過測試後發現，車輛在行駛過程中電池會被甩出車輛外，導致機型側翻，於是我們想到可以用魔鬼氈將電池固定在車輛上，魔鬼氈不僅可以固定電池也可以隨時將電池拔下來充電。
 
 <img src= "https://user-images.githubusercontent.com/106851896/176991414-0866b49d-fd78-4443-be90-2231f7c6d430.jpg" width="400" height="300">
 
@@ -184,9 +184,9 @@ We set up the Raspberry Pi and the Donker software environment. After the instal
 
 (Google翻譯)
 
-During training, the machine always paused for a while. At first, we thought it was caused by insufficient battery power or the motor. After changing the battery, it was the same. In the end, it was found that the Dupont line was too often causing the tire to get stuck.
+During training, the machine always paused for a while. At first, we thought it was caused by insufficient battery power or the motor. After changing the battery, it was the same. Finally, it was found that the Dupont line was too long, which caused the tire to be stuck.
 
-在訓練的時候機器總是會頓一下頓一下的行始，一開始我們以為電池電量不足或是馬達導致，之後換過電池以後也是一樣，最後發現是杜邦線太常導致卡到輪胎。
+在訓練的時候機器總是會頓一下頓一下的行始，一開始我們以為電池電量不足或是馬達導致，之後換過電池以後也是一樣，最後發現是杜邦線太長導致卡到輪胎。
 
 *****
 **Date：** 2022/7/26
@@ -197,9 +197,10 @@ During training, the machine always paused for a while. At first, we thought it 
 
 (Google翻譯)
 
-Since the Dupont line on our model is too chaotic, we will replace the Dupont line before going home after training today and re-cut the line to avoid damage to the model when the machine is running.
 
-由於我們機型上面的杜邦線過於混亂，所以我們今天訓練完以後在回家之前把杜邦線都換掉重新剪線整理，避免機型在行駛過程中杜邦線太長勾到其他物品導致損毀。
+Since the Dupont line on our model is too chaotic, we replaced the Dupont line before going home after training today, and re-cut the line to avoid mistakes when the machine is running.
+
+由於我們機型上面的杜邦線過於混亂，所以我們今天訓練完以後在回家之前把杜邦線都換掉重新剪線整理，避免機型在行駛過程中杜邦線太長勾到場地導致失誤。
 
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/IMG_20220810_102902.jpg" width="600" height="300">
 
@@ -212,9 +213,9 @@ Since the Dupont line on our model is too chaotic, we will replace the Dupont li
 
 (Google翻譯)
 
-Since we are going to compete in the Central Division tomorrow, in order to prevent us from making mistakes during the game, we do not know how to record the video and cause disqualification, so we conducted a small simulation game today to train us how to avoid the possible encounters in the game. The problem.
+Since we are going to compete in the Central Division tomorrow, in order to prevent us from making mistakes during the game, we do not know how to record the video, resulting in disqualification, so we conducted a small simulation game today to train us how to avoid encounters that may be encountered during the game. to the problem.
 
-由於我們明天就要比中區賽了，為了避免我們在比賽過程中不知道該怎麼錄影出現錯誤，導致失格，所以我們今天進行了一場小型的模擬賽，訓練我們如何避免比賽中可能會遇到的問題。
+由於我們明天就要比中區賽了，為了避免我們在比賽過程中不知道該怎麼錄影出現錯誤，導致失去資格，所以我們今天進行了一場小型的模擬賽，訓練我們如何避免比賽中可能會遇到的問題。
 
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/S__6086661.jpg" width="500" height="400">
 
