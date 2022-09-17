@@ -170,9 +170,8 @@ We set up virtual environment for the Raspberry Pi and  Donkey Car. After comple
 
 **Content：**
 
-(Google翻譯)
 
-During training, the machine always paused for a while. At first, we thought it was caused by insufficient battery power or the motor. After changing the battery, it was the same. Finally, it was found that the Dupont line was too long, which caused the tire to be stuck.
+During training, the machine always paused while running. At first, we thought it was caused by insufficient battery power or the motor, so we decided to change the battery, it was no good. At length, we happened to find the over-length of Dupont line caused the stuck of the wheel.
 
 在訓練的時候機器總是會頓一下頓一下的行始，一開始我們以為電池電量不足或是馬達導致，之後換過電池以後也是一樣，最後發現是杜邦線太長導致卡到輪胎。
 
@@ -183,10 +182,8 @@ During training, the machine always paused for a while. At first, we thought it 
 
 **Content：**
 
-(Google翻譯)
 
-
-Since the Dupont line on our model is too chaotic, we replaced the Dupont line before going home after training today, and re-cut the line to avoid mistakes when the machine is running.
+Since the Dupont line in our model is too messy, we cut it all off and replace them with a much tidier form so that they wouldn't trap the vehicle while running.
 
 由於我們機型上面的杜邦線過於混亂，所以我們今天訓練完以後在回家之前把杜邦線都換掉重新剪線整理，避免機型在行駛過程中杜邦線太長勾到場地導致失誤。
 
