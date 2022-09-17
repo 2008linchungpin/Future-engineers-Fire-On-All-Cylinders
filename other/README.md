@@ -110,23 +110,15 @@ With only the Dc motor and servo motor installed in the vehicle, the controller 
 
 **Content：**
 
-(Google翻譯)
 
-After completing the basic prototype of the vehicle, we select the controller that meets our requirements. After discussion, our requirements for the controller are as follows:
+After completing the basic prototype of the vehicle, we select the controller that meets our requirements. The requirements unfolded down below.
 
-1. There are signals to control GPIO
+1. Can sends signals to control GPIO
 
-2. Free use of electronic components
+2. Can employ the electronic components without restriction
 
-3. There is an environment where image recognition AI can be built
+3. With a capability to build a environment to recognize AI images
 
-在完成了車輛的基本雛形後，我們挑選符合我們要求的控制器，經過討論我們對控制器的要求有以下：
-
-1.有控制GPIO的訊號
-
-2.能自由使用電子元件
-
-3.有能架設影像辨識AI的環境
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_20220911_120738.jpg" width="400" height="300">
 
