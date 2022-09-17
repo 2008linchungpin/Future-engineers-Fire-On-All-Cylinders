@@ -129,11 +129,9 @@ After completing the basic prototype of the vehicle, we select the controller th
 
 **Content：**
 
-(Google翻譯)
 
-Today we installed the 12V battery on the vehicle and adjusted the output voltage of the step-down circuit board to 5V. After completing the battery installation, we then tested the vehicle's turning function and drive motor function. After testing, it was found that the battery would be thrown out of the vehicle during driving, causing the model to roll over, so we thought that we could use a devil felt to fix the battery. On the vehicle, the devil felt can not only fix the battery but also unplug the battery for charging at any time.
+Today we installed the 12V battery on the vehicle and adjusted the output voltage of the switching power adapter to 5V. Shortly after the installation, we then tested the vehicle's turning function and driving motor function. No sooner had the vehicle started to turn than we found that  the battery would be thrown out, causing the model rolling over. With an eye on the resolution, we thought that we could use a hook and loop fastener to embed the battery. On the other hand, it can not only stable the battery but also allow us to unplug and charge it at any wish.
 
-今天我們將12V電池安裝上車輛，並將降壓電路板的輸出電壓調整為5V。完成電池的安裝後接著測試車輛的轉功能與驅動馬達功能，經過測試後發現，車輛在行駛過程中電池會被甩出車輛外，導致機型側翻，於是我們想到可以用魔鬼氈將電池固定在車輛上，魔鬼氈不僅可以固定電池也可以隨時將電池拔下來充電。
 
 <img src= "https://user-images.githubusercontent.com/106851896/176991414-0866b49d-fd78-4443-be90-2231f7c6d430.jpg" width="400" height="300">
 
@@ -144,9 +142,8 @@ Today we installed the 12V battery on the vehicle and adjusted the output voltag
 
 **Content：**
 
-(Google翻譯)
 
-After completing the battery installation, we started the circuit configuration of the vehicle and the hardware settings of the Donkey car. During the process of using the Donkey car, we learned that the Donkey Car is an open source project, and the hardware configuration of the vehicle can be freely developed and created. software.
+After completing the battery installation, we started the circuit configuration of the vehicle and the hardware settings of Donkey Car, an open source project which gives us a humongous room for developing and creating the hardware configuration.
 
 在完成架設電池的部分之後，我們就開始車輛的電路配置與Donkey car硬體設置，在使用Donkey car過程中時得知Donkey Car是一項開源專案，車輛的硬體配置可以自由開發與創造的軟體。
 
@@ -161,7 +158,7 @@ After completing the battery installation, we started the circuit configuration 
 
 (Google翻譯)
 
-We set up the Raspberry Pi and the Donker software environment. After the installation is completed, we adjust the rudder direction of the machine's turning. After the adjustment, we directly start the remote control model shooting site photo training. After the training, the model can run clockwise and counterclockwise independently. topic.
+We set up virtual environment for the Raspberry Pi and  Donkey Car. After the installation is completed, we adjust the rudder direction of the machine's turning. After the adjustment, we directly start the remote control model shooting site photo training. After the training, the model can run clockwise and counterclockwise independently. topic.
 
 我們將樹莓派與Donker軟體環境架設，在架設完成以後調整機器轉彎的舵向，調整過後就直接開始進行遙控機型拍攝場地照片訓練，經過訓練後機型可以自主跑完順時針逆時針的題目。
 
