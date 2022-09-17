@@ -156,9 +156,8 @@ After completing the battery installation, we started the circuit configuration 
 
 **Content：**
 
-(Google翻譯)
 
-We set up virtual environment for the Raspberry Pi and  Donkey Car. After the installation is completed, we adjust the rudder direction of the machine's turning. After the adjustment, we directly start the remote control model shooting site photo training. After the training, the model can run clockwise and counterclockwise independently. topic.
+We set up virtual environment for the Raspberry Pi and  Donkey Car. After completing, we adjust the rudder direction of the machine's turning. After the adjustment, we started to train the vehicle by remote control and filming the site . No sooner had we finished training, the model can run clockwise and opposite automatically. 
 
 我們將樹莓派與Donker軟體環境架設，在架設完成以後調整機器轉彎的舵向，調整過後就直接開始進行遙控機型拍攝場地照片訓練，經過訓練後機型可以自主跑完順時針逆時針的題目。
 
