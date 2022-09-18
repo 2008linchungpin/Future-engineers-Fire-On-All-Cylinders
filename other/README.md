@@ -91,7 +91,7 @@ We integrated those three layer of boards together, measured the height of it an
 If the controller has an environment capable of setting up AI image recognitions, the controller is bound to be a microcomputer. Considering this condition, we chose the Raspberry Pi 4 with GPIO pins to control the pad components as the controller of our vehicle.
 
 
-<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_20220911_122648.jpg.jpg" width="400" height="300">
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_20220911_122648.jpg" width="400" height="300">
 
 *****
 **Date：** 2022/6/27 - 2022/6/28
