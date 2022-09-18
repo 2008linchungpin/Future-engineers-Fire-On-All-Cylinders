@@ -102,6 +102,7 @@ If the controller has an environment capable of setting up AI image recognitions
 
 With only the Dc motor and servo motor installed in the vehicle, the controller is not yet finished. We chose to use the Raspberry Pi 4, and for the reason, owing to the high program computing efficiency and small size it provides, it makes the function of image recognizing far superior. We installed Raspberry Pi 4 on the third (the lowest) layer, and then fixed it onto the layer with plastic screws.
 
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_20220918_103912.jpg" width="400" height="300">
 
 *****
 **Date：** 2022/6/29
