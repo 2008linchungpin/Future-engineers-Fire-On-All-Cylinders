@@ -79,7 +79,7 @@ Based on the displacement of the servo motor on the steering mechanism of our ve
 We integrated those three layer of boards together, measured the height of it and the components. Selecting the insulating columns that're suitable for those abovementioned things, we used them to fix the layers together longitudinally for the purpose of forming the basic prototype of the vehicle.
 
 
-<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6428.JPG" width="400" height="300">
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_6428.JPG" width="400" height="300">
 
 *****
 **Date：** 2022/6/23 - 2022/6/25
@@ -91,7 +91,7 @@ We integrated those three layer of boards together, measured the height of it an
 If the controller has an environment capable of setting up AI image recognitions, the controller is bound to be a microcomputer. Considering this condition, we chose the Raspberry Pi 4 with GPIO pins to control the pad components as the controller of our vehicle.
 
 
-<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_20220911_122648.jpg" width="400" height="300">
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_20220911_122648.jpg.jpg" width="400" height="300">
 
 *****
 **Date：** 2022/6/27 - 2022/6/28
