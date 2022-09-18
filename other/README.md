@@ -295,7 +295,7 @@ In the process of running the model, the camera always misdetected or did not de
 在機型跑的過程中鏡頭總是誤測或是沒有測到積木直接繞過去，所以我們加入了超音波偵測是否有障礙物，在測試了一段時間才知道鏡頭有偵測到障礙物只是反應不及所以沒有閃避。
 
 
-<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_20220903_100640.jpg" width="200" height="300">
+<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_20220903_100640.jpg" width="250" height="300">
 
 *****
 **Date：** 2022/8/20
