@@ -326,7 +326,7 @@ After changing the position of the lens, there are basically no other major mist
 
 鏡頭換過位置以後基本上已經沒有其他太大的失誤，但還是會有機型轉太大導致差到障礙物，在解決問題以後我們就要開始準備去台北的備用零件。
 
-<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/113502.png" width="400" height="500">
+<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/113502.png" width="400" height="500">
 
 *****
 **Date：** 2022/8/26
@@ -340,9 +340,9 @@ After changing the position of the lens, there are basically no other major mist
 Today is the day of the WRO National Finals. The competition time is the qualifying rounds in the morning and the finals in the afternoon. Before the finals start, we have to compete in the qualifying rounds before the finals in the afternoon. After the two qualifying rounds, the results are not very satisfactory. But we still made it to the finals. We ran very smoothly in the first race and got a full score, but in the second race, the machine did not turn enough when the red obstacle was flashing, and the red was knocked out, resulting in no second race. Full marks, but we still managed to win the first place and advance to the World Championship.
 
 今天是WRO全國總決賽的日子，比賽時間上午為資格賽則下午比決賽，在比決賽開始之前我們要先比資格賽才能比下午的決賽，在兩趟資格賽跑完以後雖然成績不是很理想，但還是有進入決賽，我們第一場跑得很順利跑出了滿分的成績，但是在跑第二場時機器在閃紅色障礙物時轉彎轉的不夠大把紅色撞出來了導致第二場沒有滿分，但我們還是有驚無險的拿下第一名晉級世界賽。
-<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/0910.png" width="1000" height="120">
+<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/0910.png" width="1000" height="120">
 
-<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/82627.jpg" width="400" height="300"> <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/S__69804048.jpg" width="400" height="300">
+<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/82627.jpg" width="400" height="300"> <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/S__69804048.jpg" width="400" height="300">
 
 *****
 **Date：** 2022/9/3 - 2022/9/4
@@ -357,7 +357,7 @@ In order to get a good ranking in the World Championship, we decided to increase
 
 為了能夠在世界賽中拿到好的名次，所以我們決定要將機型的速度提升，所以我們把電路板重新焊小一點節省不必要的空間，再把機型的長度縮短這樣機型就能夠更靈活的轉彎與閃避障礙物。
 
-<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_20220904_111012.jpg" width="600" height="400">
+<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_20220904_111012.jpg" width="600" height="400">
 
 *****
 **Date：** 2022/9/7 - 2022/9/8
@@ -372,7 +372,7 @@ After we changed the mechanism to a smaller size, the sensors and prune pie on t
 
 我們將機構改小以後，機型上的感測器與樹梅派都要重新擺放，由於之前的機型比較大所以線比較長，把之前的線換到小台的機型上會因為線太長會勾到輪子擋到鏡頭，所以我們重新剪線繞線。
 
-<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6426.JPG" width="400" height="300">
+<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_6426.JPG" width="400" height="300">
 
 *****
 **Date：** 2022/9/10
@@ -387,7 +387,7 @@ When we practiced today, I don't know why the prune pie keeps restarting. We sus
 
 今天我們練習時不知為何樹梅派一直重新開機，我們懷疑是杜邦線的問題，所以就把杜邦線一條一條的拆下來重新檢查，當我們已經把所有的杜邦線都檢查過一遍了都沒有損壞，卻始終找不到問題出在哪，之後又重新檢查了一遍，才發現是伺服馬達燒掉了，我們重新換過一顆伺服馬達以後就正常了。
 
-<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6422.JPG" width="450" height="300">
+<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_6422.JPG" width="450" height="300">
 
 *****
 **Date：** 2022/9/11
