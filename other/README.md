@@ -145,7 +145,7 @@ Today we installed the 12V battery on the vehicle and adjusted the output voltag
 
 After completing the battery installation, we started the circuit configuration of the vehicle and the hardware settings of Donkey Car, an open source project which gives us a humongous room for developing and creating the hardware configuration.
 
-在完成架設電池的部分之後，我們就開始車輛的電路配置與Donkey car硬體設置，在使用Donkey car過程中時得知Donkey Car是一項開源專案，車輛的硬體配置可以自由開發與創造的軟體。
+在完成架設電池的部分之後，我們就開始車輛的電路配置與Donkey car軟體設置，在使用Donkey car過程中時得知Donkey Car是一項開源專案，車輛的硬體配置可以自由開發與創造的軟體。
 
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/%E7%B7%9A%E8%B7%AF.jpg.png" width="400" height="300">
 
