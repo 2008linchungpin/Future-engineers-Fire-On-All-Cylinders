@@ -18,7 +18,7 @@ Ming-Dao High School
 
 Taiping Junior High School
 
-<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_6404.JPG" width="300" height="400">
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_6404.JPG" width="300" height="400">
 
 **Team Photos**
 
