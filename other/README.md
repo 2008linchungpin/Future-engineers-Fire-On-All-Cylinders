@@ -121,7 +121,7 @@ After completing the basic prototype of the vehicle, we select the controller th
 3. With a capability to build a environment to recognize AI images
 
 
-<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_20220911_120738.jpg" width="400" height="300">
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_20220911_120738.jpg" width="400" height="300">
 
 *****
 **Date：** 2022/6/30
