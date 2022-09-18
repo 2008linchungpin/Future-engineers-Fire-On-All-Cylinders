@@ -351,9 +351,8 @@ Today is the day of the WRO National Finals. The competition time is the qualify
 
 **Content：**
 
-(Google翻譯)
 
-In order to get a good ranking in the World Championship, we decided to increase the speed of the model, so we re-soldered the circuit board to a smaller size to save unnecessary space, and then shortened the length of the model so that the model can be More flexible turning and dodging obstacles.
+In order to get a good ranking in the World Championship, we decided to increase the speed of the model, so we re-soldered the circuit board to a smaller size to save unnecessary space. Afterwards, we shortened the length of the vehicle so that it can be More flexible turning and dodging obstacles.
 
 為了能夠在世界賽中拿到好的名次，所以我們決定要將機型的速度提升，所以我們把電路板重新焊小一點節省不必要的空間，再把機型的長度縮短這樣機型就能夠更靈活的轉彎與閃避障礙物。
 
@@ -366,9 +365,8 @@ In order to get a good ranking in the World Championship, we decided to increase
 
 **Content：**
 
-(Google翻譯)
 
-After we changed the mechanism to a smaller size, the sensors and prune pie on the model have to be rearranged. Since the previous model was larger, the line was longer. Changing the previous line to the model with a small table would cause problems. If the wire is too long, it will hook the wheel and block the lens, so we cut the wire and rewind it.
+After we zoomed the vehicle out, the sensors and the Raspberry pi on the model needed to be rearranged. Since the previous model was larger,and the line was longer, changing those overlength wires are necessary. If the wires are too long, they will hook the wheel and block the lens, so we cut the wires and rewound them.
 
 我們將機構改小以後，機型上的感測器與樹梅派都要重新擺放，由於之前的機型比較大所以線比較長，把之前的線換到小台的機型上會因為線太長會勾到輪子擋到鏡頭，所以我們重新剪線繞線。
 
@@ -381,9 +379,8 @@ After we changed the mechanism to a smaller size, the sensors and prune pie on t
 
 **Content：**
 
-(Google翻譯)
 
-When we practiced today, I don't know why the prune pie keeps restarting. We suspected the problem with the Dupont wires, so we removed the Dupont wires one by one and re-checked them. When we have checked all the Dupont wires, they are not damaged. , but still couldn't find the problem, and then checked it again, only to find that the servo motor was burned out, and it was normal after we replaced a servo motor.
+When we practiced today, we didn't have the faintest clue why the Raspberry pi keep restarting, but who to blame? We first thought it was the Dupont lines were broken, so we made every endeavor to check the Dupont wires one by one. When all the Dupont lines were checked, nothing was wrong, so we started off to examine the whole vehicle, only to find that the servo motor was burned out, and everything went normal after we change a good one instead.
 
 今天我們練習時不知為何樹梅派一直重新開機，我們懷疑是杜邦線的問題，所以就把杜邦線一條一條的拆下來重新檢查，當我們已經把所有的杜邦線都檢查過一遍了都沒有損壞，卻始終找不到問題出在哪，之後又重新檢查了一遍，才發現是伺服馬達燒掉了，我們重新換過一顆伺服馬達以後就正常了。
 
@@ -396,9 +393,8 @@ When we practiced today, I don't know why the prune pie keeps restarting. We sus
 
 **Content：**
 
-(Google翻譯)
 
-After the broken servo motor was replaced, there was no further error during the test. After several days of revisions, the model was finally able to run the entire process flawlessly.
+After the broken servo motor was replaced, there was no further error during the test. After several days of revisions, the model was finally capable to run the entire process flawlessly.
 
 將壞掉的伺服馬達換掉了以後，在測試時也沒有再發生過任何一個失誤，經過這幾天的修改以後終於能夠完整的讓機型完美無誤跑完全程。
 
