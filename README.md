@@ -43,7 +43,7 @@ https://reurl.cc/W18Wl9
 
 We use 3mm planks which were cut by the laser beam cutting machine as the chassis of our vehicle and design the turning section along with LEGO blocks with the intention of shrinking the dimension and stabilizing it. On top of that, considering that the Raspberry Pi 4 isn't only quick in operating but is suitable for image identifying, we chose it as the main controller of our vehicle.
 
-<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/car.png" width="400" height="300">
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/car.png" width="400" height="300">
 
 ## Introduces of Electromechanical Components
 
@@ -72,12 +72,12 @@ Raspberry Pi 4：In charge of all the models of vehicle controllers.
 
 In order to solve the problem that the path taken by the outer wheels is larger than the path taken by the inner wheels when turning, we install a differential.
 
-<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_1749.JPG" width="400" height="300">
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_1749.JPG" width="400" height="300">
 
 
 ## The Steering Mechanism
 
 In order to have better steering, we design the steering rudder as Ackerman steering structure, and use the servo motor to control the steering of the steering rudder.
 
-<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/photo/IMG_1748.png" width="400" height="300">
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_1748.png" width="400" height="300">
 
