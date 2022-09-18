@@ -1,37 +1,37 @@
 Vehicle's photos
 =====
 
-Left Elevation
+Left View
 
 <img src="https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/v-photos/Left%20view.jpg"  width="500" height="400">
 
 ********
 
-Rear Elevation
+Rear View
 
 <img src="https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/v-photos/Rear%20view.jpg"  width="500" height="400">
 
 ******
 
-Bottom view
+Bottom View
 
 <img src="https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/v-photos/bottom%20view.jpg"  width="500" height="400">
 
 **********
 
-Front Elevation
+Front View
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/v-photos/front%20view.jpg"  width="500" height="400">
 
 *****
 
-Right Elevation
+Right View
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/v-photos/right%20view.jpg"  width="500" height="400">
 
 ********
 
-Top view
+Top View
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/v-photos/top%20view.jpg"  width="500" height="400">
 
