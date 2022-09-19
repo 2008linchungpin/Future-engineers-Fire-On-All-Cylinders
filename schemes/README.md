@@ -1,4 +1,4 @@
-# Electromechanical diagrams
+# Electromechanical Diagrams
 
 ## Components's Position
 ![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/schemes/Car%20configuration.png)
