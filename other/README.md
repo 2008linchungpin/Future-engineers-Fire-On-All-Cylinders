@@ -176,6 +176,8 @@ During training, the machine always paused while running. At first, we thought i
 
 在訓練的時候機器總是會頓一下頓一下的行始，一開始我們以為電池電量不足或是馬達導致，之後換過電池以後也是一樣，最後發現是杜邦線太長導致卡到輪胎。
 
+<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_20220919_191252.jpg" width="500" height="400">
+
 *****
 **Date：** 2022/7/26
 
