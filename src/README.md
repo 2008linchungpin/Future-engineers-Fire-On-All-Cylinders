@@ -2,7 +2,7 @@
 ## Programming Language
 We choose Pyson as our Programming Language.
 
-![image](https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/src/Python_Picture.png)
+<img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/src/Python_Picture.png" width="400" height="400">
 
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
 Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a "batteries included" language due to its comprehensive standard library.
