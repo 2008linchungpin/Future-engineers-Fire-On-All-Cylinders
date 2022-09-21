@@ -256,9 +256,8 @@ After a series of tests, we found out that our technology is not mature enough t
 
 **Content：**
 
-(Google翻譯)
 
-Because we bought the wrong lens, we should have used a lens with an infrared filter but no night vision function. As a result, we bought a lens with no infrared filter and night vision function, so we could not filter out the sunlight during the normal running process, so Not ideal to run.
+An stupid incident happended is that we had bought the wrong lens, we should have used a lens with an infrared filter but no night vision function but we bought a lens with no infrared filter and night vision function. It's made us hard to proceed 'cause we can't filter the sunlight out.
 
 由於我們鏡頭買錯，我們原本該用有紅外線濾鏡無夜視功能的鏡頭，結果我們買到無紅外線濾鏡有夜視功能的鏡頭，所以我們平常跑的過程中無法把太陽光濾掉所以跑起來不是很理想。
 
@@ -273,7 +272,7 @@ Because we bought the wrong lens, we should have used a lens with an infrared fi
 
 (Google翻譯)
 
-Today, we have almost completed the identification of all the official obstacle combinations. In addition, we have re-arranged the questions. However, during the test, there will still be the problem of lens misdetection, which needs to be fine-tuned.
+We have almost completed the identification of all the official obstacle combinations. In addition, we have re-arranged the questions. However, during the test, there will still be the problem of lens misdetection, which needs to be fine-tuned.
 
 今天我們近乎把官方出的所有障礙物組合辨識完畢，另外我們還有重新編排出題，但是在測試過程中還是會出現鏡頭誤測的問題，需要再進行微調。
 
