@@ -284,9 +284,8 @@ We had almost completed the identification of all the official obstacle combinat
 
 **Content：**
 
-(Google翻譯)
 
-In the process of running the vehicle, the camera always misdetected or did not detect the building blocks and went around directly, so we added ultrasonic detection to detect whether there are obstacles. The reaction is not as fast, so there is no dodge.
+In the process of running the vehicle, the camera often misdetected or did not detect the blocks and went pass it, so we added a ultrasonic sensor to detect whether there are obstacles. But it turned out that it was only because there was no enough time for it to react and dodge the blocks.
 
 在機型跑的過程中鏡頭總是誤測或是沒有測到積木直接繞過去，所以我們加入了超音波偵測是否有障礙物，在測試了一段時間才知道鏡頭有偵測到障礙物只是反應不及所以沒有閃避。
 
@@ -302,7 +301,7 @@ In the process of running the vehicle, the camera always misdetected or did not 
 
 (Goofle翻譯)
 
-Today, we found that the misdetection of the lens is mostly due to the installation method of the model, so we installed the lens backward, and changed the position of the sensor on the model, and then rewound the lens. Much improved.
+We found out that the misdetection of the lens is mostly due to the wrong installation of the vehicle, so we fixed the lens backward, changed the position of the sensor, and rewound the lens. There were not much to be desired after that.
 
 今天我們發現鏡頭會誤測多半是機型裝法的問題，所以我們就把鏡頭往後裝，順便把機型上的感測器換過位置後，再把線重繞以後鏡頭誤測的問題改善了很多。
 
@@ -316,10 +315,9 @@ Today, we found that the misdetection of the lens is mostly due to the installat
 
 **Content：**
 
-(Google翻譯)
 
-After changing the position of the lens, there are basically no other major mistakes, but there are still some models that are turned too large and cause obstacles. After solving the problem, we will start to prepare spare parts for Taipei.
-
+After changing the position of the lens, there were no other major mistakes basically. But there were some chances that the turning angle is so wide that fender bender
+occurred. Nevertheless, we came through it within a short period of time. Afterwards, we started to prepare the spare components for the national competition.
 鏡頭換過位置以後基本上已經沒有其他太大的失誤，但還是會有機型轉太大導致差到障礙物，在解決問題以後我們就要開始準備去台北的備用零件。
 
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/113502.png" width="400" height="500">
@@ -331,9 +329,8 @@ After changing the position of the lens, there are basically no other major mist
 
 ***Content：**
 
-(Google翻譯)
 
-Today is the day of the WRO National Finals. The competition time is the qualifying rounds in the morning and the finals in the afternoon. Before the finals start, we have to compete in the qualifying rounds before the finals in the afternoon. After the two qualifying rounds, the results are not very satisfactory. But we still made it to the finals. We ran very smoothly in the first race and got a full score, but in the second race, the machine did not turn enough when the red obstacle was flashing, and the red was knocked out, resulting in no second race. Full marks, but we still managed to win the first place and advance to the World Championship.
+It was the day of the WRO National Finals. The schedule was Qualification in the morning and the Finals in the afternoon. Before the Finals start, we had to take part  in the Qualification because we didn't use matrixmini into our vehicle. After two rounds of Qualification, the results are not very satisfactory. But we still made it to the Finals. We ran very smoothly in the first round and got full marks. But in the second round, the vehicle did not turn enough when detecting the red block, and the red was knocked. Though we didn't get full score in the second round, we still managed to win first place and advance to the World Championship.
 
 今天是WRO全國總決賽的日子，比賽時間上午為資格賽則下午比決賽，在比決賽開始之前我們要先比資格賽才能比下午的決賽，在兩趟資格賽跑完以後雖然成績不是很理想，但還是有進入決賽，我們第一場跑得很順利跑出了滿分的成績，但是在跑第二場時機器在閃紅色障礙物時轉彎轉的不夠大把紅色撞出來了導致第二場沒有滿分，但我們還是有驚無險的拿下第一名晉級世界賽。
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/0910.png" width="1000" height="120">
