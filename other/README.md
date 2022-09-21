@@ -227,9 +227,8 @@ It's the very day of the mid-Taiwan competition. The schedule starts from 12 p.m
 
 **Content：**
 
-(Google翻譯)
 
-After the end of the central competition, we began to prepare for the detection of dodging blocks in the national competition. In the past few days, we randomly placed the blocks from far, middle, and near to take 70 photos each, and then exported them to the computer. Type color identification.
+When the mid-Taiwan competition is over, we began to prepare the detecting and dodging blocks for the national competition. In the past few days, we randomly placed the blocks from far, middle, and near to take 70 photos each, then imported them into the computer to carry out the border marqueeing and color identifying.
 
 中區賽結束以後，我們就開始準備全國賽閃避積木的偵測，這幾天我們將積木由遠、中、近分別隨機擺放各拍70張照片，在匯出到電腦中框選進行圖型顏色的辨識。
 
