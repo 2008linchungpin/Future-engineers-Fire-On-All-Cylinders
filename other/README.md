@@ -199,9 +199,8 @@ Since the Dupont line in our model is too messy, we cut it all off and replace t
 
 **Content：**
 
-(Google翻譯)
 
-Since we are going to compete in the Central Division tomorrow, in order to prevent us from making mistakes during the game, we do not know how to record the video, resulting in disqualification, so we conducted a small simulation game today to train us how to avoid encounters that may be encountered during the game. to the problem.
+We are going to compete in the Mid-Taiwan competition tomorrow, with an eye on preventing us from the misdectect during the competition causes the disqualification, we had a simulate contest to predict the problems we may come across when contesting.
 
 由於我們明天就要比中區賽了，為了避免我們在比賽過程中不知道該怎麼錄影出現錯誤，導致失去資格，所以我們今天進行了一場小型的模擬賽，訓練我們如何避免比賽中可能會遇到的問題。
 
@@ -214,9 +213,8 @@ Since we are going to compete in the Central Division tomorrow, in order to prev
 
 **Content：**
 
-(Google翻譯)
 
-Today is the Central Division Competition. Like last year's Central Division Competition, the competition starts from 12:00 noon to 12:00 noon the next day. It is a pity that this year, compared with last year, there are fewer good topics this year than last year's. We've been waiting for the shortest path since the race started, and it didn't appear until 6am the next morning.
+It's the very day of the mid-Taiwan competition. The schedule starts from 12 p.m. and ends in 12p.m. next day. Unlike last year, there're few easy-to-run tests to complete. 
 
 今天是中區賽，跟去年中區賽一樣從中午12點比到隔天中午的12點為止，今年很可惜的是跟去年相比，今年較好的題目比去年的還要少。我們自從比賽開始就一直在等最短路徑，直到隔天的早上6點才出現最短路徑。
 
