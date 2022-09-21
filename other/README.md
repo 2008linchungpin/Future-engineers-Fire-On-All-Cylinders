@@ -345,7 +345,7 @@ It was the day of the WRO National Finals. The schedule was Qualification in the
 **Content：**
 
 
-In order to get a good ranking in the World Championship, we decided to increase the speed of the model, so we re-soldered the circuit board to a smaller size to save unnecessary space. Afterwards, we shortened the length of the vehicle so that it can be More flexible turning and dodging obstacles.
+In order to gain first place in the World Championship, we decided to increase the speed of our vehicle, so we re-soldered the circuit board to a smaller size to save some space. Afterwards, we shortened the length of the vehicle so that it can be more flexible turning and dodging the blocks.
 
 為了能夠在世界賽中拿到好的名次，所以我們決定要將機型的速度提升，所以我們把電路板重新焊小一點節省不必要的空間，再把機型的長度縮短這樣機型就能夠更靈活的轉彎與閃避障礙物。
 
