@@ -270,9 +270,8 @@ An stupid incident happended is that we had bought the wrong lens, we should hav
 
 **Content：**
 
-(Google翻譯)
 
-We have almost completed the identification of all the official obstacle combinations. In addition, we have re-arranged the questions. However, during the test, there will still be the problem of lens misdetection, which needs to be fine-tuned.
+We had almost completed the identification of all the official obstacle combinations. In addition, we have re-arranged the tests. However, during the test, there were still some problems of lens misdetection, which needs to be fine-tuned.
 
 今天我們近乎把官方出的所有障礙物組合辨識完畢，另外我們還有重新編排出題，但是在測試過程中還是會出現鏡頭誤測的問題，需要再進行微調。
 
@@ -287,7 +286,7 @@ We have almost completed the identification of all the official obstacle combina
 
 (Google翻譯)
 
-In the process of running the model, the camera always misdetected or did not detect the building blocks and went around directly, so we added ultrasonic detection to detect whether there are obstacles. The reaction is not as fast, so there is no dodge.
+In the process of running the vehicle, the camera always misdetected or did not detect the building blocks and went around directly, so we added ultrasonic detection to detect whether there are obstacles. The reaction is not as fast, so there is no dodge.
 
 在機型跑的過程中鏡頭總是誤測或是沒有測到積木直接繞過去，所以我們加入了超音波偵測是否有障礙物，在測試了一段時間才知道鏡頭有偵測到障礙物只是反應不及所以沒有閃避。
 
