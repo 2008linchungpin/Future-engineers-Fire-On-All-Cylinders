@@ -241,9 +241,8 @@ When the mid-Taiwan competition is over, we began to prepare the detecting and d
 
 **Content：**
 
-(Google翻譯)
 
-After a series of tests, it is a little difficult to identify because our technology is not yet mature, so we have decided to switch to HLS to detect the hue, saturation, and brightness of the building blocks, so that the probability of false detection is relatively low.
+After a series of tests, we found out that our technology is not mature enough to identify the blocks, so we decided to use HLS to detect the hue, saturation, and brightness of the blocks, so that the probability of misdetection is relatively low.
 
 經過一系列的測試過後，由於我們的技術尚未成熟所以用來辨識有點困難，所以我們目前決定要改用HLS偵測積木的色相、飽和度、亮度，這樣誤測的機率比較低。
 
