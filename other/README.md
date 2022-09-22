@@ -389,3 +389,4 @@ After the broken servo motor was replaced, there was no further error during the
 
 將壞掉的伺服馬達換掉了以後，在測試時也沒有再發生過任何一個失誤，經過這幾天的修改以後終於能夠完整的讓機型完美無誤跑完全程。
 
+<img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/2022-09-22%20220906.png" width="450" height="300">
