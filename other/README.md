@@ -299,8 +299,6 @@ In the process of running the vehicle, the camera often misdetected or did not d
 
 **Content：**
 
-(Goofle翻譯)
-
 We found out that the misdetection of the lens is mostly due to the wrong installation of the vehicle, so we fixed the lens backward, changed the position of the sensor, and rewound the lens. There were not much to be desired after that.
 
 今天我們發現鏡頭會誤測多半是機型裝法的問題，所以我們就把鏡頭往後裝，順便把機型上的感測器換過位置後，再把線重繞以後鏡頭誤測的問題改善了很多。
