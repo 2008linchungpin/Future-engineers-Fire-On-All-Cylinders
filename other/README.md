@@ -325,7 +325,7 @@ occurred. Nevertheless, we came through it within a short period of time. Afterw
 
 **Members：**  LIN,ZHONG-BIN、LIN,BO-SHENG、LI,DING-WEI
 
-***Content：**
+**Content：**
 
 
 It was the day of the WRO National Finals. The schedule was Qualification in the morning and the Finals in the afternoon. Before the Finals start, we had to take part  in the Qualification because we didn't use matrixmini into our vehicle. After two rounds of Qualification, the results are not very satisfactory. But we still made it to the Finals. We ran very smoothly in the first round and got full marks. But in the second round, the vehicle did not turn enough when detecting the red block, and the red was knocked. Though we didn't get full score in the second round, we still managed to win first place and advance to the World Championship.
