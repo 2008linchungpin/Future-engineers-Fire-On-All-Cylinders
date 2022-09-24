@@ -64,7 +64,7 @@ At first, we chose to use the MG996R servo motor to drive the steering mechanism
 
 **Content：**
 
-Based on the displacement of the servo motor on the steering mechanism of our vehicle, we had to redesign the mechanism so that the SG90S servo motor could be mounted onto it. We put the SG960S servo motor on the second layer of the vehicle, being more convenient to connect to the steering mechanism. What's more, the steering mechanism operates more smoothly as we did so.
+Based on the displacement of the servo motor on the steering mechanism of our vehicle, we had to redesign the mechanism with the intention that the SG90S servo motor could be mounted on it. We put the SG960S servo motor on the second layer of the vehicle, being more convenient to connect to the steering mechanism. Appropriately, the steering mechanism operates more smoothly.
 
 
 <img src= "https://user-images.githubusercontent.com/106851896/178087399-1efc9875-dcfc-4141-bd51-6f2f8170cec8.PNG" width="550" height="300">
@@ -76,7 +76,7 @@ Based on the displacement of the servo motor on the steering mechanism of our ve
 
 **Content：**
 
-We integrated those three layer of boards together, measured the height of it and the components. Selecting the insulating columns that're suitable for those abovementioned things, we used them to fix the layers together longitudinally for the purpose of forming the basic prototype of the vehicle.
+We integrated those three layer of boards together, measured the height of it and the components. Selecting the insulating columns that were suitable for those abovementioned objects, we used them to fix the layers together longitudinally for the purpose of forming the basic prototype of the vehicle.
 
 
 <img src= "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_6428.JPG" width="400" height="300">
