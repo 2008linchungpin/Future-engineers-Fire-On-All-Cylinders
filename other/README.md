@@ -146,7 +146,6 @@ Today we installed the 12V battery on the vehicle and adjusted the output voltag
 
 After completing the battery installation, we started the circuit configuration of the vehicle and the hardware settings of Donkey Car, an open source project which gives us a humongous room for developing and creating the hardware configuration.
 
-在完成架設電池的部分之後，我們就開始車輛的電路配置與Donkey car軟體設置，在使用Donkey car過程中時得知Donkey Car是一項開源專案，車輛的硬體配置可以自由開發與創造的軟體。
 
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/%E7%B7%9A%E8%B7%AF.jpg.png" width="400" height="300">
 
@@ -160,7 +159,6 @@ After completing the battery installation, we started the circuit configuration 
 
 We set up virtual environment for the Raspberry Pi and  Donkey Car. After completing, we adjust the rudder direction. After the adjustment, we started to train the vehicle by remote controlling and filming the site . No sooner had we finished training, the model can run clockwise and opposite automatically. 
 
-我們將樹莓派與Donker軟體環境架設，在架設完成以後調整機器轉彎的舵向，調整過後就直接開始進行遙控機型拍攝場地照片訓練，經過訓練後機型可以自主跑完順時針逆時針的題目。
 
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/IMG_20220811_081727.jpg"  width="600" height="300">
 
@@ -174,7 +172,6 @@ We set up virtual environment for the Raspberry Pi and  Donkey Car. After comple
 
 During training, the machine always paused while running. At first, we thought it was caused by insufficient battery power or the motor, so we decided to change the battery, it was no good. At length, we found out that the over-length of Dupont line caused the stuck of the wheel.
 
-在訓練的時候機器總是會頓一下頓一下的行始，一開始我們以為電池電量不足或是馬達導致，之後換過電池以後也是一樣，最後發現是杜邦線太長導致卡到輪胎。
 
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_20220919_191252.jpg" width="500" height="400">
 
@@ -188,8 +185,6 @@ During training, the machine always paused while running. At first, we thought i
 
 Since the Dupont line in our model is too messy, we cut it all off and replace them with a much tidier form so that they wouldn't trap the vehicle while running.
 
-由於我們機型上面的杜邦線過於混亂，所以我們今天訓練完以後在回家之前把杜邦線都換掉重新剪線整理，避免機型在行駛過程中杜邦線太長勾到場地導致失誤。
-
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/IMG_20220810_102902.jpg" width="600" height="300">
 
 *****
@@ -202,7 +197,6 @@ Since the Dupont line in our model is too messy, we cut it all off and replace t
 
 We are going to compete in the Mid-Taiwan competition tomorrow, with an eye on preventing us from the misdectect during the competition causes the disqualification, we had a simulate contest to predict the problems we may come across when contesting.
 
-由於我們明天就要比中區賽了，為了避免我們在比賽過程中不知道該怎麼錄影出現錯誤，導致失去資格，所以我們今天進行了一場小型的模擬賽，訓練我們如何避免比賽中可能會遇到的問題。
 
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/S__6086661.jpg" width="500" height="400">
 
@@ -216,8 +210,6 @@ We are going to compete in the Mid-Taiwan competition tomorrow, with an eye on p
 
 It's the very day of the mid-Taiwan competition. The schedule starts from 12 p.m. and ends in 12p.m. next day. Unlike last year, there're few easy-to-run tests to complete. 
 
-今天是中區賽，跟去年中區賽一樣從中午12點比到隔天中午的12點為止，今年很可惜的是跟去年相比，今年較好的題目比去年的還要少。我們自從比賽開始就一直在等最短路徑，直到隔天的早上6點才出現最短路徑。
-
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/2022-08-15%20142636.png" width="700" height="400">
 
 *****
@@ -230,7 +222,6 @@ It's the very day of the mid-Taiwan competition. The schedule starts from 12 p.m
 
 When the mid-Taiwan competition is over, we began to prepare the detecting and dodging blocks for the national competition. In the past few days, we randomly placed the blocks from far, middle, and near to take 70 photos each, then imported them into the computer to carry out the border marqueeing and color identifying.
 
-中區賽結束以後，我們就開始準備全國賽閃避積木的偵測，這幾天我們將積木由遠、中、近分別隨機擺放各拍70張照片，在匯出到電腦中框選進行圖型顏色的辨識。
 
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/156.jpg" width="500" height="300">
 
@@ -244,7 +235,7 @@ When the mid-Taiwan competition is over, we began to prepare the detecting and d
 
 After a series of tests, we found out that our technology is not mature enough to identify the blocks, so we decided to use HLS to detect the hue, saturation, and brightness of the blocks, so that the probability of misdetection is relatively low.
 
-經過一系列的測試過後，由於我們的技術尚未成熟所以用來辨識有點困難，所以我們目前決定要改用HLS偵測積木的色相、飽和度、亮度，這樣誤測的機率比較低。
+
 
 
 <img src =  "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/%E6%93%B7%E5%8F%96.PNG"  width="500" height="300">
@@ -259,7 +250,6 @@ After a series of tests, we found out that our technology is not mature enough t
 
 An stupid incident happended is that we had bought the wrong lens, we should have used a lens with an infrared filter but no night vision function but we bought a lens with no infrared filter and night vision function. It's made us hard to proceed 'cause we can't filter the sunlight out.
 
-由於我們鏡頭買錯，我們原本該用有紅外線濾鏡無夜視功能的鏡頭，結果我們買到無紅外線濾鏡有夜視功能的鏡頭，所以我們平常跑的過程中無法把太陽光濾掉所以跑起來不是很理想。
 
 <img src ="https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/IMG_20220815_103756.jpg" width="600" height="300">
 
@@ -273,7 +263,6 @@ An stupid incident happended is that we had bought the wrong lens, we should hav
 
 We had almost completed the identification of all the official obstacle combinations. In addition, we have re-arranged the tests. However, during the test, there were still some problems of lens misdetection, which needs to be fine-tuned.
 
-今天我們近乎把官方出的所有障礙物組合辨識完畢，另外我們還有重新編排出題，但是在測試過程中還是會出現鏡頭誤測的問題，需要再進行微調。
 
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/0.1.png" width="400" height="500">
 
@@ -287,7 +276,6 @@ We had almost completed the identification of all the official obstacle combinat
 
 In the process of running the vehicle, the camera often misdetected or did not detect the blocks and went pass it, so we added a ultrasonic sensor to detect whether there are obstacles. But it turned out that it was only because there was no enough time for it to react and dodge the blocks.
 
-在機型跑的過程中鏡頭總是誤測或是沒有測到積木直接繞過去，所以我們加入了超音波偵測是否有障礙物，在測試了一段時間才知道鏡頭有偵測到障礙物只是反應不及所以沒有閃避。
 
 
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_20220903_100640.jpg" width="450" height="300">
@@ -301,7 +289,6 @@ In the process of running the vehicle, the camera often misdetected or did not d
 
 We found out that the misdetection of the lens is mostly due to the wrong installation of the vehicle, so we fixed the lens backward, changed the position of the sensor, and rewound the lens. There were not much to be desired after that.
 
-今天我們發現鏡頭會誤測多半是機型裝法的問題，所以我們就把鏡頭往後裝，順便把機型上的感測器換過位置後，再把線重繞以後鏡頭誤測的問題改善了很多。
 
 
 <img src = "https://github.com/2008linchungpin/Future_Engineer/blob/main/photo/IMG_20220903_100536.jpg" width="600" height="300">
@@ -316,7 +303,7 @@ We found out that the misdetection of the lens is mostly due to the wrong instal
 
 After changing the position of the lens, there were no other major mistakes basically. But there were some chances that the turning angle is so wide that fender bender
 occurred. Nevertheless, we came through it within a short period of time. Afterwards, we started to prepare the spare components for the national competition.
-鏡頭換過位置以後基本上已經沒有其他太大的失誤，但還是會有機型轉太大導致差到障礙物，在解決問題以後我們就要開始準備去台北的備用零件。
+
 
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/113502.png" width="400" height="500">
 
@@ -330,7 +317,6 @@ occurred. Nevertheless, we came through it within a short period of time. Afterw
 
 It was the day of the WRO National Finals. The schedule was Qualification in the morning and the Finals in the afternoon. Before the Finals start, we had to take part  in the Qualification because we didn't use matrixmini into our vehicle. After two rounds of Qualification, the results are not very satisfactory. But we still made it to the Finals. We ran very smoothly in the first round and got full marks. But in the second round, the vehicle did not turn enough when detecting the red block, and the red was knocked. Though we didn't get full score in the second round, we still managed to win first place and advance to the World Championship.
 
-今天是WRO全國總決賽的日子，比賽時間上午為資格賽則下午比決賽，在比決賽開始之前我們要先比資格賽才能比下午的決賽，在兩趟資格賽跑完以後雖然成績不是很理想，但還是有進入決賽，我們第一場跑得很順利跑出了滿分的成績，但是在跑第二場時機器在閃紅色障礙物時轉彎轉的不夠大把紅色撞出來了導致第二場沒有滿分，但我們還是有驚無險的拿下第一名晉級世界賽。
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/0910.png" width="1000" height="120">
 
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/82627.jpg" width="400" height="300"> <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/S__69804048.jpg" width="400" height="300">
@@ -345,7 +331,6 @@ It was the day of the WRO National Finals. The schedule was Qualification in the
 
 In order to gain first place in the World Championship, we decided to increase the speed of our vehicle, so we re-soldered the circuit board to a smaller size to save some space. Afterwards, we shortened the length of the vehicle so that it can be more flexible turning and dodging the blocks.
 
-為了能夠在世界賽中拿到好的名次，所以我們決定要將機型的速度提升，所以我們把電路板重新焊小一點節省不必要的空間，再把機型的長度縮短這樣機型就能夠更靈活的轉彎與閃避障礙物。
 
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_20220904_111012.jpg" width="600" height="400">
 
@@ -359,7 +344,6 @@ In order to gain first place in the World Championship, we decided to increase t
 
 After we zoomed the vehicle out, the sensors and the Raspberry pi on the model needed to be rearranged. Since the previous model was larger,and the line was longer, changing those overlength wires are necessary. If the wires are too long, they will hook the wheel and block the lens, so we cut the wires and rewound them.
 
-我們將機構改小以後，機型上的感測器與樹梅派都要重新擺放，由於之前的機型比較大所以線比較長，把之前的線換到小台的機型上會因為線太長會勾到輪子擋到鏡頭，所以我們重新剪線繞線。
 
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_6426.JPG" width="400" height="300">
 
@@ -373,7 +357,6 @@ After we zoomed the vehicle out, the sensors and the Raspberry pi on the model n
 
 When we practiced today, we didn't have the faintest clue why the Raspberry pi keep restarting, but who to blame? We first thought it was the Dupont lines were broken, so we made every endeavor to check the Dupont wires one by one. When all the Dupont lines were checked, nothing was wrong, so we started off to examine the whole vehicle, only to find that the servo motor was burned out, and everything went normal after we change a good one instead.
 
-今天我們練習時不知為何樹梅派一直重新開機，我們懷疑是杜邦線的問題，所以就把杜邦線一條一條的拆下來重新檢查，當我們已經把所有的杜邦線都檢查過一遍了都沒有損壞，卻始終找不到問題出在哪，之後又重新檢查了一遍，才發現是伺服馬達燒掉了，我們重新換過一顆伺服馬達以後就正常了。
 
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/IMG_6422.JPG" width="450" height="300">
 
@@ -387,6 +370,5 @@ When we practiced today, we didn't have the faintest clue why the Raspberry pi k
 
 After the broken servo motor was replaced, there was no further error during the test. After several days of revisions, the model was finally capable to run the entire process flawlessly.
 
-將壞掉的伺服馬達換掉了以後，在測試時也沒有再發生過任何一個失誤，經過這幾天的修改以後終於能夠完整的讓機型完美無誤跑完全程。
 
 <img src = "https://github.com/2008linchungpin/Future-engineers-Fire-On-All-Cylinders/blob/main/other/Diary%20photos/2022-09-22%20220906.png" width="450" height="300">
