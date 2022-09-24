@@ -29,7 +29,7 @@ During these days, we started to design the construction of the vehicle. Dividin
 
 **Content：**
 
-Confirming the car's shape, we started off to choose the motors. For now we have GA25-370 in hand, and while checking some datasheets on the internet, we bought the JGA16-050 because it's much lighter and was not as large as the GA25-370. But in spite of the advantages of JGS16-050, we still ultilized GA25-370 for driving the vehicle after practical comparasions due to the efficiency they provided.
+Confirming the car's shape, we started off to choose the motors. For now we have GA25-370 in hand, and while checking some datasheets on the internet, we bought the JGA16-050 because it's much lighter and was not as large as the GA25-370. But in spite of the advantages of JGS16-050, we still ultilized GA25-370 to drive the vehicle after practical comparasions due to the efficiency they provided.
 
 <img src= "https://user-images.githubusercontent.com/106851896/176989086-27531ee9-5cdb-40cb-8e0b-7d376ba59e3e.jpg" width="400" height="300">  <img src= "https://user-images.githubusercontent.com/106851896/176989089-816688a2-115c-4d20-a689-e17af9d53a5a.jpg" width="400" height="300"><br/>
 
@@ -40,7 +40,7 @@ Confirming the car's shape, we started off to choose the motors. For now we have
 
 **Content：**
 
-Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L298n Dc Motor Drive to control the movement of the GA25-370 Dc Gear Motor. On the other hand, L298n needs a external power supply. So we design a route that connects the L298n Dc Motor Drive to a 12-volt lithium polymer.
+Considering that the GA25-370 needed a total of 12 operating voltage, we set up a L298n Dc Motor Drive to control the movement of the GA25-370 Dc Gear Motor. On the other hand, L298n needs a external power supply. So we design a route that connects the L298n Dc Motor Drive to a 12-volt lithium polymer.
 
 <img src= "https://user-images.githubusercontent.com/106851896/176989980-82d65ada-de48-4de4-8b35-44c4a550eb33.jpg" width="400" height="300">
 
@@ -52,7 +52,7 @@ Condering that the GA25-370 needs a total 12 of operating voltage, we set up a L
 
 **Content：**
 
-At first, we chose to use the MG996R servo motor to drive the steering mechanism. Though the MG996R servo motor we installed on the steering mechanism had a large torque, with the heavy weight it got, its rotation speed was too slow, so that the vehicle would rather crush into the wall than turn into the correct position. In the end, we chose the SG90S servo motor in view of the lighter weight and  the faster rotate speed which make it easier for the car to pass through the curve.
+At first, we chose to use the MG996R servo motor to drive the steering mechanism. Though the MG996R servo motor we installed on the steering mechanism had a large torque, with the heavy weight it got, its rotation speed was so slow that the vehicle would rather crush into the wall than turn into the correct position. In the end, we chose the SG90S servo motor in view of the lighter weight and  the faster rotate speed which make it easier for the car to pass through the .
 
 
 <img src= "https://user-images.githubusercontent.com/106851896/178086536-d1ad5c58-ee7f-4514-9b3d-6e2d4f79cfdf.jpg" width="400" height="300"> <img src= "https://user-images.githubusercontent.com/106851896/178086538-f11aecf4-af52-4141-a643-7ee231f0d225.jpg" width="400" height="300">
